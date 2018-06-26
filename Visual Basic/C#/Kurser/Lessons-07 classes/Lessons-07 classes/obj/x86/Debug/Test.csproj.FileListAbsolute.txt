@@ -1,0 +1,5 @@
+C:\Users\daniel.elmnas\AppData\Local\Temporary Projects\Test\bin\Debug\Test.exe
+C:\Users\daniel.elmnas\AppData\Local\Temporary Projects\Test\bin\Debug\Test.pdb
+C:\Users\daniel.elmnas\AppData\Local\Temporary Projects\Test\obj\x86\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\daniel.elmnas\AppData\Local\Temporary Projects\Test\obj\x86\Debug\Test.exe
+C:\Users\daniel.elmnas\AppData\Local\Temporary Projects\Test\obj\x86\Debug\Test.pdb

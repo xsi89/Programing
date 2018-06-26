@@ -1,0 +1,878 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Inventory>
+<BK>
+<Book>
+<producttype>Book</producttype>
+<productname>A Connecticut Yankee in King Arthur&apos;s Court</productname>
+<artistfirstname>Mark</artistfirstname>
+<artistlastname>Twain</artistlastname>
+<description>A Connecticut Yankee travels back to King Arthur&apos;s court and adventure ensues. Fun, fun, fun.</description>
+<company>Pocket Books</company>
+<year>1889</year>
+<productid>978-1416534730</productid>
+<price>4.95</price>
+</Book>
+<Book>
+<image>978-0684837888.jpg</image>
+<producttype>Book</producttype>
+<productname>A Farewell To Arms</productname>
+<artistfirstname>Ernest</artistfirstname>
+<artistlastname>Hemingway</artistlastname>
+<description>The tragic tale of love and loss during WWI.</description>
+<company>Charles Scribner&apos;s Sons</company>
+<year>1929</year>
+<productid>978-0684837888</productid>
+<price>18.15</price>
+</Book>
+<Book>
+<image>978-0679405757.jpg</image>
+<producttype>Book</producttype>
+<productname>A Portrait of the Artist as a Young Man</productname>
+<artistfirstname>James</artistfirstname>
+<artistlastname>Joyce</artistlastname>
+<description>A a fictionalized memoir of Joyce&apos;s alter ego, Stephen Daedelus, describing his coming of age in Dublin.</description>
+<company>Everyman&apos;s Library</company>
+<year>1916</year>
+<productid>978-0679405757</productid>
+<price>14.25</price>
+</Book>
+<Book>
+<image>978-0141439600.jpg</image>
+<producttype>Book</producttype>
+<productname>A Tale of Two Cities</productname>
+<artistfirstname>Charles</artistfirstname>
+<artistlastname>Dickens</artistlastname>
+<description>Classic telling of life in two cities, London and Paris, during the upheaval of the French Revolution.</description>
+<company>Penguin Classics</company>
+<year>1859</year>
+<productid>978-0141439600</productid>
+<price>9.95</price>
+</Book>
+<Book>
+<image>978-0486443225.jpg</image>
+<producttype>Book</producttype>
+<productname>Adventures of Huckleberry Finn</productname>
+<artistfirstname>Mark</artistfirstname>
+<artistlastname>Twain</artistlastname>
+<description>Classic American story of adventure and self-discovery in pre-Civil War Missouri.</description>
+<company>Dover Publications</company>
+<year>1885</year>
+<productid>978-0486443225</productid>
+<price>11.66</price>
+</Book>
+<Book>
+<image>978-0451528612.jpg</image>
+<producttype>Book</producttype>
+<productname>Anna Karenina</productname>
+<artistfirstname>Leo</artistfirstname>
+<artistlastname>Tolstoy</artistlastname>
+<description>Intricate intrigue of love and scandal in high society of Czarist Russia.</description>
+<company>Signet Classics</company>
+<year>1873</year>
+<productid>978-0451528612</productid>
+<price>9.95</price>
+</Book>
+<Book>
+<image>978-0670202812.jpg</image>
+<producttype>Book</producttype>
+<productname>Cannery Row</productname>
+<artistfirstname>John</artistfirstname>
+<artistlastname>Steinbeck</artistlastname>
+<description>A slice of blue collar life and love and laughter during the Great Depression Monterrey, California</description>
+<company>Viking</company>
+<year>1945</year>
+<productid>978-0670202812</productid>
+<price>16.50</price>
+</Book>
+<Book>
+<producttype>Book</producttype>
+<productname>Crime and Punishment</productname>
+<artistfirstname>Fyodor</artistfirstname>
+<artistlastname>Dostoyevsky</artistlastname>
+<description>A tale of murder and justice in Czarist Russia</description>
+<company>Everyman&apos;s Library</company>
+<year>1866</year>
+<productid>978-0679420293</productid>
+<price>14.96</price>
+</Book>
+<Book>
+<image>978-0679783411.jpg</image>
+<producttype>Book</producttype>
+<productname>David Copperfield</productname>
+<artistfirstname>Charles</artistfirstname>
+<artistlastname>Dickens</artistlastname>
+<description>Personal adventure of the title character in England in the early 1800s.</description>
+<company>Modern Library</company>
+<year>1848</year>
+<productid>978-0679783411</productid>
+<price>9.95</price>
+</Book>
+<Book>
+<image>978-0060576059.jpg</image>
+<producttype>Book</producttype>
+<productname>Death in Venice</productname>
+<artistfirstname>Thomas</artistfirstname>
+<artistlastname>Mann</artistlastname>
+<description>Exploration of forbidden love and obsession with Venice in the background.</description>
+<company>Ecco</company>
+<year>1912</year>
+<productid>978-0060576059</productid>
+<price>9.95</price>
+</Book>
+<Book>
+<image>978-0684803357.jpg</image>
+<producttype>Book</producttype>
+<productname>For Whom the Bell Tolls</productname>
+<artistfirstname>Ernest</artistfirstname>
+<artistlastname>Hemingway</artistlastname>
+<description>Classic personal drama set in the Spanish Civil War.</description>
+<company>Charles Scribner&apos;s Sons</company>
+<year>1940</year>
+<productid>978-0684803357</productid>
+<price>18.15</price>
+</Book>
+<Book>
+<image>978-0486415864.jpg</image>
+<producttype>Book</producttype>
+<productname>Great Expectations</productname>
+<artistfirstname>Charles</artistfirstname>
+<artistlastname>Dickens</artistlastname>
+<description>Gripping tale of crime and guilt, revenge and reward in 19th Century England.</description>
+<company>Dover Publication</company>
+<year>1860</year>
+<productid>978-0486415864</productid>
+<price>9.95</price>
+</Book>
+<Book>
+<image>978-0679428015.jpg</image>
+<producttype>Book</producttype>
+<productname>Heart of Darkness</productname>
+<artistfirstname>Joseph</artistfirstname>
+<artistlastname>Conrad</artistlastname>
+<description>An symbolic journey to the heart of man&apos;s inner demons.</description>
+<company>Everyman&apos;s Library</company>
+<year>1902</year>
+<productid>978-0679428015</productid>
+<price>12.00</price>
+</Book>
+<Book>
+<image>978-0451525260.jpg</image>
+<producttype>Book</producttype>
+<productname>Les Misérables</productname>
+<artistfirstname>Victor</artistfirstname>
+<artistlastname>Hugo</artistlastname>
+<description>Rich tale of crime, sin, punishment and redemption in pre-revolutionary France.</description>
+<company>Signet Classics</company>
+<year>1862</year>
+<productid>978-0451525260</productid>
+<price>9.95</price>
+</Book>
+<Book>
+<producttype>Book</producttype>
+<productname>Magic Mountain</productname>
+<artistfirstname>Thomas</artistfirstname>
+<artistlastname>Mann</artistlastname>
+<description>Tale of apprenticeship and inner growth before and during WWI Germany</description>
+<company>Vintage</company>
+<year>1929</year>
+<productid>978-0679772873</productid>
+<price>12.24</price>
+</Book>
+<Book>
+<image>978-0394604725.jpg</image>
+<producttype>Book</producttype>
+<productname>Of Mice and Men</productname>
+<artistfirstname>John</artistfirstname>
+<artistlastname>Steinbeck</artistlastname>
+<description>Tragic and iconic tale of love and friendship told by one of Americas greatest writers.</description>
+<company>Modern Library</company>
+<year>1937</year>
+<productid>978-0394604725</productid>
+<price>19.95</price>
+</Book>
+<Book>
+<image>978-0684830490.jpg</image>
+<producttype>Book</producttype>
+<productname>Old Man And The Sea</productname>
+<artistfirstname>Ernest</artistfirstname>
+<artistlastname>Hemingway</artistlastname>
+<description>A fish tale for the generations. A classic tale of man versus nature and his eventual defeat and triumph.</description>
+<company>Charles Scribner&apos;s Sons</company>
+<year>1952</year>
+<productid>978-0684830490</productid>
+<price>13.60</price>
+</Book>
+<Book>
+<image>978-1904633082.jpg</image>
+<producttype>Book</producttype>
+<productname>Oliver Twist</productname>
+<artistfirstname>Charles</artistfirstname>
+<artistlastname>Dickens</artistlastname>
+<description>Tale of an orphan&apos;s journey from despair to triumph.</description>
+<company>Collector&apos;s Library</company>
+<year>1838</year>
+<productid>978-1904633082</productid>
+<price>9.95</price>
+</Book>
+<Book>
+<producttype>Book</producttype>
+<productname>Roughing It</productname>
+<artistfirstname>Mark</artistfirstname>
+<artistlastname>Twain</artistlastname>
+<description>Humorous anecdotes of Twain&apos;s travels in the old west.</description>
+<company>Pocket Books</company>
+<year>1872</year>
+<productid>978-0743436502</productid>
+<price>6.99</price>
+</Book>
+<Book>
+<image>978-0141183596.jpg</image>
+<producttype>Book</producttype>
+<productname>Tender Is the Night</productname>
+<artistfirstname>F. Scott</artistfirstname>
+<artistlastname>Fitzgerald</artistlastname>
+<description>Classic tale of wealth and tragic romance.</description>
+<company>Penguin Books</company>
+<year>1934</year>
+<productid>978-0141183596</productid>
+<price>8.89</price>
+</Book>
+<Book>
+<image>978-1402714603.jpg</image>
+<producttype>Book</producttype>
+<productname>The Adventures of Tom Sawyer</productname>
+<artistfirstname>Mark</artistfirstname>
+<artistlastname>Twain</artistlastname>
+<description>Classic American story of life in pre-Civil War Missouri.</description>
+<company>Sterling</company>
+<year>1876</year>
+<productid>978-1402714603</productid>
+<price>9.95</price>
+</Book>
+<Book>
+<image>978-0374528379.jpg</image>
+<producttype>Book</producttype>
+<productname>The Brothers Karamazov</productname>
+<artistfirstname>Fyodor</artistfirstname>
+<artistlastname>Dostoyevsky</artistlastname>
+<description>A tale of human drama told from the perspective of a father and his three sons.</description>
+<company>Farrar, Straus and Giroux</company>
+<year>1879</year>
+<productid>978-0374528379</productid>
+<price>16.50</price>
+</Book>
+<Book>
+<image>978-0679603351.jpg</image>
+<producttype>Book</producttype>
+<productname>The Cider House Rules: A Novel</productname>
+<artistfirstname>John</artistfirstname>
+<artistlastname>Irving</artistlastname>
+<description>Classic tale following the life of a doctor who founded an orphanage in rural Maine before WWII and the orphans in his charge.</description>
+<company>Modern Library</company>
+<year>1985</year>
+<productid>978-0679603351</productid>
+<price>18.96</price>
+</Book>
+<Book>
+<image>978-0142000663.jpg</image>
+<producttype>Book</producttype>
+<productname>The Grapes of Wrath</productname>
+<artistfirstname>John</artistfirstname>
+<artistlastname>Steinbeck</artistlastname>
+<description>Joad family struggle with poverty and dignity in the great Depression.</description>
+<company>Penguin Books</company>
+<year>1939</year>
+<productid>978-0142000663</productid>
+<price>10.88</price>
+</Book>
+<Book>
+<image>978-0684830421.jpg</image>
+<producttype>Book</producttype>
+<productname>The Great Gatsby</productname>
+<artistfirstname>F. Scott</artistfirstname>
+<artistlastname>Fitzgerald</artistlastname>
+<description>Portrait of the excess and decadence of the Jazz Age. Fitzgerald&apos;s most popular and best selling novel.</description>
+<company>Charles Scribner&apos;s Sons</company>
+<year>1922</year>
+<productid>978-0684830421</productid>
+<price>11.16</price>
+</Book>
+<Book>
+<image>978-0679642572.jpg</image>
+<producttype>Book</producttype>
+<productname>The Hunchback of Notre-Dame</productname>
+<artistfirstname>Victor</artistfirstname>
+<artistlastname>Hugo</artistlastname>
+<description>Rich tale of tale of love, hate, revenge, and of a deformed man, Quasimodo, in 1482 France.</description>
+<company>Modern Library</company>
+<year>1831</year>
+<productid>978-0679642572</productid>
+<price>10.16</price>
+</Book>
+<Book>
+<image>978-1582183381.jpg</image>
+<producttype>Book</producttype>
+<productname>The Prince and the Pauper</productname>
+<artistfirstname>Mark</artistfirstname>
+<artistlastname>Twain</artistlastname>
+<description>Classic tale of mistaken identity, intrigue and swashbuckling all rolled into one.</description>
+<company>Digital Scanning</company>
+<year>1882</year>
+<productid>978-1582183381</productid>
+<price>19.95</price>
+</Book>
+<Book>
+<producttype>Book</producttype>
+<productname>The Scarlet Letter</productname>
+<artistfirstname>Nathaniel</artistfirstname>
+<artistlastname>Hawthorne</artistlastname>
+<description>Guilt, repression, sin and redemption in Puritan New England before the Revolution.</description>
+<company>Prestwick House, Inc.</company>
+<year>1850</year>
+<productid>978-1580498043</productid>
+<price>9.95</price>
+</Book>
+<Book>
+<image>978-0684862217.jpg</image>
+<producttype>Book</producttype>
+<productname>The Snows of Kilimanjaro and Other Short Stories</productname>
+<artistfirstname>Ernest</artistfirstname>
+<artistlastname>Hemingway</artistlastname>
+<description>Life and death and adventure across Europe and Africa.</description>
+<company>Charles Scribner&apos;s Sons</company>
+<year>1936</year>
+<productid>978-0684862217</productid>
+<price>16.50</price>
+</Book>
+<Book>
+<image>978-0684830513.jpg</image>
+<producttype>Book</producttype>
+<productname>The Sun Also Rises</productname>
+<artistfirstname>Ernest</artistfirstname>
+<artistlastname>Hemingway</artistlastname>
+<description>Follow the adventures of Jake Barnes through pre-Civil War Spain</description>
+<company>Charles Scribner&apos;s Sons</company>
+<year>1926</year>
+<productid>978-0684830513</productid>
+<price>16.50</price>
+</Book>
+<Book>
+<image>978-0679603061.jpg</image>
+<producttype>Book</producttype>
+<productname>The World According to Garp</productname>
+<artistfirstname>John</artistfirstname>
+<artistlastname>Irving</artistlastname>
+<description>An American tale of realistic surrealism following the life of fictional novelist T. S. Garp</description>
+<company>Modern Library</company>
+<year>1978</year>
+<productid>978-0679603061</productid>
+<price>16.46</price>
+</Book>
+<Book>
+<image>978-0684859231.jpg</image>
+<producttype>Book</producttype>
+<productname>To Have and Have Not</productname>
+<artistfirstname>Ernest</artistfirstname>
+<artistlastname>Hemingway</artistlastname>
+<description>Adventure, danger and betrayal in pre-Civil War Cuba</description>
+<company>Charles Scribner&apos;s Sons</company>
+<year>1944</year>
+<productid>978-0684859231</productid>
+<price>16.50</price>
+</Book>
+<Book>
+<image>978-0141182803.jpg</image>
+<producttype>Book</producttype>
+<productname>Ulysses</productname>
+<artistfirstname>James</artistfirstname>
+<artistlastname>Joyce</artistlastname>
+<description>The journey of Leopold Bloom through Dublin during one day in 1904.</description>
+<company>Penguin Books</company>
+<year>1922</year>
+<productid>978-0141182803</productid>
+<price>13.37</price>
+</Book>
+<Book>
+<image>978-0679600848.jpg</image>
+<producttype>Book</producttype>
+<productname>War and Peace</productname>
+<artistfirstname>Leo</artistfirstname>
+<artistlastname>Tolstoy</artistlastname>
+<description>Vast tableau of life and death in Czarist Russia during the Napoleanic Wars.</description>
+<company>Modern Library</company>
+<year>1869</year>
+<productid>978-0679600848</productid>
+<price>18.94</price>
+</Book>
+</BK>
+<AB>
+    <Audiobook>
+        <image>978-0786180394.jpg</image>
+        <producttype>Audiobook</producttype>
+        <productname>A Tale of Two Cities</productname>
+        <artistfirstname>Charles</artistfirstname>
+        <artistlastname>Dickens</artistlastname>
+        <description>Classic telling of life in two cities, London and Paris, during the upheaval of the French Revolution.</description>
+        <company>Blackstone Audiobooks</company>
+        <year>2005</year>
+        <productid>978-0786180394</productid>
+        <price>19.77</price>
+    </Audiobook>
+    <Audiobook>
+        <image>978-9626340813.jpg</image>
+        <producttype>Audiobook</producttype>
+        <productname>Anna Karenina</productname>
+        <artistfirstname>Leo</artistfirstname>
+        <artistlastname>Tolstoy</artistlastname>
+        <description>Audiobook version of the intricate intrigue of love and scandal in high society of Czarist Russia.</description>
+        <company>Naxos Audiobooks</company>
+        <year>1999</year>
+        <productid>978-9626340813</productid>
+        <price>20.50</price>
+    </Audiobook>
+    <Audiobook>
+        <image>978-1565117709.jpg</image>
+        <producttype>Audiobook</producttype>
+        <productname>Of Mice and Men</productname>
+        <artistfirstname>John</artistfirstname>
+        <artistlastname>Steinbeck</artistlastname>
+        <description>Audiobook version of the tragic and iconic tale of love and friendship told by one of Americas greatest writers.</description>
+        <company>Highbridge Audio</company>
+        <year>2003</year>
+        <productid>978-1565117709</productid>
+        <price>16.47</price>
+    </Audiobook>
+    <Audiobook>
+        <image>978-0898459524.jpg</image>
+        <producttype>Audiobook</producttype>
+        <productname>Old Man And The Sea</productname>
+        <artistfirstname>Ernest</artistfirstname>
+        <artistlastname>Hemingway</artistlastname>
+        <description>Unabridged audio version of the classic novel. A fish tale for the generations. A classic tale of man versus nature and his eventual defeat and triumph.</description>
+        <company>Charles Scribner&apos;s Sons</company>
+        <year>1998</year>
+        <productid>978-0898459524</productid>
+        <price>14.04</price>
+    </Audiobook>
+    <Audiobook>
+        <image>978-1572700741.jpg</image>
+        <producttype>Audiobook</producttype>
+        <productname>Oliver Twist</productname>
+        <artistfirstname>Charles</artistfirstname>
+        <artistlastname>Dickens</artistlastname>
+        <description>Audiobook version of the tale of an orphan&apos;s journey from despair to triumph.</description>
+        <company>The Audio Partners</company>
+        <year>1998</year>
+        <productid>978-1572700741</productid>
+        <price>34.14</price>
+    </Audiobook>
+    <Audiobook>
+        <image>978-1580812634.jpg</image>
+        <producttype>Audiobook</producttype>
+        <productname>The Grapes of Wrath</productname>
+        <artistfirstname>John</artistfirstname>
+        <artistlastname>Steinbeck</artistlastname>
+        <description>Audiobook version of the Joad family struggle with poverty and dignity in the great Depression.</description>
+        <company>La Theatre Works</company>
+        <year>2002</year>
+        <productid>978-1580812634</productid>
+        <price>25.95</price>
+    </Audiobook>
+    <Audiobook>
+        <image>978-0945353416.jpg</image>
+        <producttype>Audiobook</producttype>
+        <productname>The Great Gatsby</productname>
+        <artistfirstname>F. Scott</artistfirstname>
+        <artistlastname>Fitzgerald</artistlastname>
+        <description>Unabridged audio version of the classic novel. Portrait of the excess and decadence of the Jazz Age. Fitzgerald&apos;s most popular and best selling novel.</description>
+        <company>The Audio Partners</company>
+        <year>1989</year>
+        <productid>978-0945353416</productid>
+        <price>15.56</price>
+    </Audiobook>
+    <Audiobook>
+        <producttype>Audiobook</producttype>
+        <productname>The Last of the Mohicans</productname>
+        <artistfirstname>James Fenimore</artistfirstname>
+        <artistlastname>Cooper</artistlastname>
+        <description>Audiobook version of the story of romance and adventure on the American frontier.</description>
+        <company>Brilliance Audio</company>
+        <year>2005</year>
+        <productid>978-1597371353</productid>
+        <price>29.67</price>
+    </Audiobook>
+    <Audiobook>
+        <image>978-0736621656.jpg</image>
+        <producttype>Audiobook</producttype>
+        <productname>The Sun Also Rises</productname>
+        <artistfirstname>Ernest</artistfirstname>
+        <artistlastname>Hemingway</artistlastname>
+        <description>Unabridged audio version of the classic novel. Follow the adventures of Jake Barnes through pre-Civil War Spain</description>
+        <company>Books on Tape</company>
+        <year>1989</year>
+        <productid>978-0736621656</productid>
+        <price>17.00</price>
+    </Audiobook>
+    <Audiobook>
+        <image>978-0739320891.jpg</image>
+        <producttype>Audiobook</producttype>
+        <productname>The World According to Garp</productname>
+        <artistfirstname>John</artistfirstname>
+        <artistlastname>Irving</artistlastname>
+        <description>Audiobook version of the American tale of realistic surrealism following the life of fictional novelist T. S. Garp</description>
+        <company>Random House Audio</company>
+        <year>2005</year>
+        <productid>978-0739320891</productid>
+        <price>34.16</price>
+    </Audiobook>
+    <Audiobook>
+        <producttype>Audiobook</producttype>
+        <productname>War and Peace</productname>
+        <artistfirstname>Leo</artistfirstname>
+        <artistlastname>Tolstoy</artistlastname>
+        <description>Audiobook version of the vast tableau of life and death in Czarist Russia during the Napoleanic Wars.</description>
+        <company>Naxos Audiobooks</company>
+        <year>1995</year>
+        <productid>978-9626340424</productid>
+        <price>17.81</price>
+    </Audiobook>
+</AB>
+    <MV>
+<Movie>
+<producttype>DVD</producttype>
+<productname>A Farewell To Arms</productname>
+<artistfirstname>Ernest</artistfirstname>
+<artistlastname>Hemingway</artistlastname>
+<artist2firstname>Frank</artist2firstname>
+<artist2lastname>Borzage</artist2lastname>
+<description>Film adaptation of the classic novel. The tragic tale of love and loss during WWI.</description>
+<company>20th Century Fox</company>
+<year>1957</year>
+<productid>B0007PALN4</productid>
+<price>12.99</price>
+</Movie>
+<Movie>
+<producttype>DVD</producttype>
+<productname>A Tale of Two Cities</productname>
+<artistfirstname>Charles</artistfirstname>
+<artistlastname>Dickens</artistlastname>
+<artist2firstname>Jack</artist2firstname>
+<artist2lastname>Conway</artist2lastname>
+<description>Film adaptation of the classic novel. Classic telling of life in two cities, London and Paris, during the upheaval of the French Revolution.</description>
+<company>Warner Bros</company>
+<year>1935</year>
+<productid>B000GRUQL0</productid>
+<price>17.49</price>
+</Movie>
+<Movie>
+<producttype>DVD</producttype>
+<productname>Adventures of Huckleberry Finn</productname>
+<artistfirstname>Mark</artistfirstname>
+<artistlastname>Twain</artistlastname>
+<artist2firstname>Stephen</artist2firstname>
+<artist2lastname>Sommers</artist2lastname>
+<description>Film adaptation of the classic novel. Classic American story of adventure and self-discovery in pre-Civil War Missouri.</description>
+<company>Walt Disney Video</company>
+<year>2002</year>
+<productid>B00005TPMM</productid>
+<price>11.99</price>
+</Movie>
+<Movie>
+<producttype>DVD</producttype>
+<productname>Anna Karenina</productname>
+<artistfirstname>Leo</artistfirstname>
+<artistlastname>Tolstoy</artistlastname>
+<artist2firstname>Julien</artist2firstname>
+<artist2lastname>Duvivier</artist2lastname>
+<description>Film adaptation of the classic novel. Intricate intrigue of love and scandal in high society of Czarist Russia.</description>
+<company>20th Century Fox</company>
+<year>1948</year>
+<productid>B000MGBLHI</productid>
+<price>14.99</price>
+</Movie>
+<Movie>
+<image>6301966465.jpg</image>
+<producttype>VHS</producttype>
+<productname>Cannery Row</productname>
+<artistfirstname>John</artistfirstname>
+<artistlastname>Steinbeck</artistlastname>
+<description>Film adaptation of the classic novel. A slice of blue collar life and love and laughter during the Great Depression Monterrey, California</description>
+<company>MGM</company>
+<year>1982</year>
+<productid>6301966465</productid>
+<price>25.99</price>
+</Movie>
+<Movie>
+<image>B0000A5A1L.jpg</image>
+<producttype>DVD</producttype>
+<productname>Crime and Punishment</productname>
+<artistfirstname>Fyodor</artistfirstname>
+<artistlastname>Dostoyevsky</artistlastname>
+<artist2firstname>Michael</artist2firstname>
+<artist2lastname>Darlow</artist2lastname>
+<description>Film adaptation of the classic novel. A tale of murder and justice in Czarist Russia</description>
+<company>WEA</company>
+<year>2003</year>
+<productid>B0000A5A1L</productid>
+<price>17.99</price>
+</Movie>
+<Movie>
+<producttype>DVD</producttype>
+<productname>David Copperfield</productname>
+<artistfirstname>Charles</artistfirstname>
+<artistlastname>Dickens</artistlastname>
+<artist2firstname>George</artist2firstname>
+<artist2lastname>Cukor</artist2lastname>
+<description>Personal adventure of the title character in England in the early 1800s.</description>
+<company>Warner Bros</company>
+<year>1935</year>
+<productid>B000GRUQK6</productid>
+<price>17.99</price>
+</Movie>
+<Movie>
+<image>B0000WN118.jpg</image>
+<producttype>DVD</producttype>
+<productname>Death in Venice</productname>
+<artistfirstname>Thomas</artistfirstname>
+<artistlastname>Mann</artistlastname>
+<description>Film adaptation of the classic novel. Exploration of forbidden love and obsession with Venice in the background.</description>
+<company>Warner Bros</company>
+<year>1971</year>
+<productid>B0000WN118</productid>
+<price>17.99</price>
+</Movie>
+<Movie>
+<image>6303560040.jpg</image>
+<producttype>VHS</producttype>
+<productname>For Whom the Bell Tolls</productname>
+<artistfirstname>Ernest</artistfirstname>
+<artistlastname>Hemingway</artistlastname>
+<artist2firstname>Sam</artist2firstname>
+<artist2lastname>Wood</artist2lastname>
+<description>Film adaptation of the classic personal drama set in the Spanish Civil War.</description>
+<company>Universal Studios</company>
+<year>1943</year>
+<productid>6303560040</productid>
+<price>14.98</price>
+</Movie>
+<Movie>
+<producttype>DVD</producttype>
+<productname>Les Misérables</productname>
+<artistfirstname>Victor</artistfirstname>
+<artistlastname>Hugo</artistlastname>
+<artist2firstname>Richard</artist2firstname>
+<artist2lastname>Boleslawski</artist2lastname>
+<description>Film adaptation of the classic novel. Rich tale of crime, sin, punishment and redemption in pre-revolutionary France.</description>
+<company>20th Century Fox</company>
+<year>1935</year>
+<productid>B000MGBLI2</productid>
+<price>9.95</price>
+</Movie>
+<Movie>
+<image>6305081832.jpg</image>
+<producttype>DVD</producttype>
+<productname>Of Mice and Men</productname>
+<artistfirstname>John</artistfirstname>
+<artistlastname>Steinbeck</artistlastname>
+<artist2firstname>Lewis</artist2firstname>
+<artist2lastname>Milestone</artist2lastname>
+<description>Film adaptation of the classic novel. Tragic and iconic tale of love and friendship told by one of Americas greatest writers.</description>
+<company>Image Entertainment</company>
+<year>1939</year>
+<productid>6305081832</productid>
+<price>9.95</price>
+</Movie>
+<Movie>
+<image>6304039549.jpg</image>
+<producttype>VHS</producttype>
+<productname>Old Man And The Sea</productname>
+<artistfirstname>Ernest</artistfirstname>
+<artistlastname>Hemingway</artistlastname>
+<artist2firstname>John</artist2firstname>
+<artist2lastname>Sturges</artist2lastname>
+<description>Film adaptation of the classic novel. A fish tale for the generations. A classic tale of man versus nature and his eventual defeat and triumph.</description>
+<company>Warner Bros</company>
+<year>1958</year>
+<productid>6304039549</productid>
+<price>9.95</price>
+</Movie>
+<Movie>
+<image>B00000F17A.jpg</image>
+<producttype>DVD</producttype>
+<productname>Oliver Twist</productname>
+<artistfirstname>Charles</artistfirstname>
+<artistlastname>Dickens</artistlastname>
+<artist2firstname>David</artist2firstname>
+<artist2lastname>Lean</artist2lastname>
+<description>Film adaptation of the classic novel. Tale of an orphan&apos;s journey from despair to triumph.</description>
+<company>Criterion</company>
+<year>1948</year>
+<productid>B00000F17A</productid>
+<price>35.99</price>
+</Movie>
+<Movie>
+<producttype>DVD</producttype>
+<productname>Tender Is the Night</productname>
+<artistfirstname>F. Scott</artistfirstname>
+<artistlastname>Fitzgerald</artistlastname>
+<artist2firstname>Henry</artist2firstname>
+<artist2lastname>K</artist2lastname>
+<description>Film adaptation of the classic novel. Classic tale of wealth and tragic romance.</description>
+<company>Unknown</company>
+<year>1962</year>
+<productid>B00005JORE</productid>
+<price>9.95</price>
+</Movie>
+<Movie>
+<producttype>DVD</producttype>
+<productname>The Adventures of Tom Sawyer</productname>
+<artistfirstname>Mark</artistfirstname>
+<artistlastname>Twain</artistlastname>
+<artist2firstname>Norman</artist2firstname>
+<artist2lastname>Taurog</artist2lastname>
+<description>Film adaptation of the classic novel. Classic American story of life in pre-Civil War Missouri.</description>
+<company>Legacy Entertainment</company>
+<year>1938</year>
+<productid>B000LQ79W0</productid>
+<price>9.95</price>
+</Movie>
+<Movie>
+<producttype>DVD</producttype>
+<productname>The Cider House Rules: A Novel</productname>
+<artistfirstname>John</artistfirstname>
+<artistlastname>Irving</artistlastname>
+<artist2firstname>Lasse</artist2firstname>
+<artist2lastname>Hallström</artist2lastname>
+<description>Film adaptation of the classic novel. Classic tale following the life of a doctor who founded an orphanage in rural Maine before WWII and the orphans in his charge.</description>
+<company>FilmColony</company>
+<year>1999</year>
+<productid>B000065K5S</productid>
+<price>9.95</price>
+</Movie>
+<Movie>
+<image>B0000DJZ8R.jpg</image>
+<producttype>DVD</producttype>
+<productname>The Grapes of Wrath</productname>
+<artistfirstname>John</artistfirstname>
+<artistlastname>Steinbeck</artistlastname>
+<artist2firstname>John</artist2firstname>
+<artist2lastname>Ford</artist2lastname>
+<description>Film adaptation of the classic novel. Joad family struggle with poverty and dignity in the great Depression.</description>
+<company>20th Century Fox</company>
+<year>1940</year>
+<productid>B0000DJZ8R</productid>
+<price>9.95</price>
+</Movie>
+<Movie>
+<image>6301247485.jpg</image>
+<producttype>VHS</producttype>
+<productname>The Great Gatsby</productname>
+<artistfirstname>F. Scott</artistfirstname>
+<artistlastname>Fitzgerald</artistlastname>
+<artist2firstname>Jack</artist2firstname>
+<artist2lastname>Clayton</artist2lastname>
+<description>Film adaptation of the classic novel. Portrait of the excess and decadence of the Jazz Age. Fitzgerald&apos;s most popular and best selling novel.</description>
+<company>Paramount</company>
+<year>1974</year>
+<productid>6301247485</productid>
+<price>9.95</price>
+</Movie>
+<Movie>
+<image>6304698615.jpg</image>
+<producttype>DVD</producttype>
+<productname>The Hunchback of Notre-Dame</productname>
+<artistfirstname>Victor</artistfirstname>
+<artistlastname>Hugo</artistlastname>
+<artist2firstname>William</artist2firstname>
+<artist2lastname>Dieterle</artist2lastname>
+<description>Film adaptation of the classic novel. Rich tale of tale of love, hate, revenge, and of a deformed man, Quasimodo, in 1482 France.</description>
+<company>RKO</company>
+<year>1939</year>
+<productid>6304698615</productid>
+<price>17.99</price>
+</Movie>
+<Movie>
+<image>B00009M9AG.jpg</image>
+<producttype>DVD</producttype>
+<productname>The Prince and the Pauper</productname>
+<artistfirstname>Mark</artistfirstname>
+<artistlastname>Twain</artistlastname>
+<artist2firstname>William</artist2firstname>
+<artist2lastname>Keighley</artist2lastname>
+<description>Film adaptation of the classic novel. Classic tale of mistaken identity, intrigue and swashbuckling all rolled into one.</description>
+<company>Warner Bros.</company>
+<year>1937</year>
+<productid>B00009M9AG</productid>
+<price>17.99</price>
+</Movie>
+<Movie>
+<image>B0000A0DTE.jpg</image>
+<producttype>DVD</producttype>
+<productname>The Scarlet Letter</productname>
+<artistfirstname>Nathaniel</artistfirstname>
+<artistlastname>Hawthorne</artistlastname>
+<artist2firstname>Robert G.</artist2firstname>
+<artist2lastname>Vignola</artist2lastname>
+<description>Film adaptation of the classic novel. Guilt, repression, sin and redemption in Puritan New England before the Revolution.</description>
+<company>Alpha Video</company>
+<year>1934</year>
+<productid>B0000A0DTE</productid>
+<price>9.95</price>
+</Movie>
+<Movie>
+<image>B000LC4ZD0.jpg</image>
+<producttype>VHS</producttype>
+<productname>The Snows of Kilimanjaro</productname>
+<artistfirstname>Ernest</artistfirstname>
+<artistlastname>Hemingway</artistlastname>
+<artist2firstname>Henry</artist2firstname>
+<artist2lastname>King</artist2lastname>
+<description>Film adaptation of the classic short story. Life and death and adventure across Europe and Africa.</description>
+<company>20th Century Fox</company>
+<year>1953</year>
+<productid>B000LC4ZD0</productid>
+<price>9.95</price>
+</Movie>
+<Movie>
+<producttype>DVD</producttype>
+<productname>The World According to Garp</productname>
+<artistfirstname>John</artistfirstname>
+<artistlastname>Irving</artistlastname>
+<artist2firstname>George Roy</artist2firstname>
+<artist2lastname>Hill</artist2lastname>
+<description>Film adaptation of the classic novel. An American tale of realistic surrealism following the life of fictional novelist T. S. Garp</description>
+<company>Warner Bros.</company>
+<year>1982</year>
+<productid>B000056WRE</productid>
+<price>10.99</price>
+</Movie>
+<Movie>
+<image>B0000B1OGH.jpg</image>
+<producttype>DVD</producttype>
+<productname>To Have and Have Not</productname>
+<artistfirstname>Ernest</artistfirstname>
+<artistlastname>Hemingway</artistlastname>
+<artist2firstname>Howard</artist2firstname>
+<artist2lastname>Hawks</artist2lastname>
+<description>Film adaptation of the classic novel. Adventure, danger and betrayal in pre-Civil War Cuba</description>
+<company>Warner Bros</company>
+<year>2003</year>
+<productid>B0000B1OGH</productid>
+<price>9.95</price>
+</Movie>
+<Movie>
+<image>B00006JU7S.jpg</image>
+<producttype>DVD</producttype>
+<productname>War and Peace</productname>
+<artistfirstname>Leo</artistfirstname>
+<artistlastname>Tolstoy</artistlastname>
+<artist2firstname>King</artist2firstname>
+<artist2lastname>Vidor</artist2lastname>
+<description>Film adaptation of the classic novel. Vast tableau of life and death in Czarist Russia during the Napoleanic Wars.</description>
+<company>Paramount</company>
+<year>1956</year>
+<productid>B00006JU7S</productid>
+<price>9.95</price>
+</Movie>
+</MV>
+</Inventory>

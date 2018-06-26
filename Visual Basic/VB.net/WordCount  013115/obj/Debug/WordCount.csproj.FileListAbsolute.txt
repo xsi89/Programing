@@ -1,0 +1,7 @@
+C:\Users\Hiq\Desktop\WordCount\obj\Debug\WordCount.exe
+C:\Users\Hiq\Desktop\WordCount\obj\Debug\WordCount.pdb
+C:\Users\Hiq\Desktop\WordCount\bin\Debug\WordCount.exe
+C:\Users\Hiq\Desktop\WordCount\bin\Debug\WordCount.pdb
+C:\Users\Hiq\Desktop\WordCount\obj\Debug\WordCount.Form1.resources
+C:\Users\Hiq\Desktop\WordCount\obj\Debug\WordCount.Properties.Resources.resources
+C:\Users\Hiq\Desktop\WordCount\obj\Debug\WordCount.csproj.GenerateResource.Cache

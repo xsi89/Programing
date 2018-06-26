@@ -1,0 +1,76 @@
+@charset "utf-8";
+body {
+	background-image: url(images/newsbanner.jpg);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	margin: 0px;
+	font-family: "Trebuchet MS", Tahoma, Verdana, Arial, Helvetica, sans-serif;
+}
+html {
+
+}
+
+.left {
+	width: 400px;
+	float: left;
+	height: 400px;
+}
+.main {
+	float: right;
+	width: 500px;
+	height: 200px;
+	position: relative;
+	background-color: #D3FFC2;
+}
+.wrapper {
+	width: 930px;
+	margin-top: 200px;
+	padding-left: 20px;
+	height: 350px;
+}
+th {
+	font-size: 14px;
+	background-color: #05803F;
+	color: #FFFFFF;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+.oddrow {
+	background-color: #FFFFCC;
+	margin-top: 3px;
+	margin-bottom: 3px;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	font-size: 12px;
+	line-height: 13px;
+}
+.selrow {
+}
+
+.hrow {
+}
+
+
+.toc {
+	overflow: scroll;
+	height: 350px;
+	width: 400px;
+}
+.toc  td {
+	font-size: 13px;
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.evenrow {
+	background-color: #D3FFC2;
+	margin-top: 3px;
+	margin-bottom: 3px;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	font-size: 12px;
+	line-height: 13px;
+}

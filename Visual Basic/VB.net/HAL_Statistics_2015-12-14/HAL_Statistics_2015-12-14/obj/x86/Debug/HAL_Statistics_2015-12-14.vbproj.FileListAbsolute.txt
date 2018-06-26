@@ -1,0 +1,24 @@
+C:\Users\daniel.elmnas\AppData\Local\Temporary Projects\HAL_Statistics_2015-12-14\bin\Debug\HAL_Statistics_2015-12-14.exe
+C:\Users\daniel.elmnas\AppData\Local\Temporary Projects\HAL_Statistics_2015-12-14\bin\Debug\HAL_Statistics_2015-12-14.pdb
+C:\Users\daniel.elmnas\AppData\Local\Temporary Projects\HAL_Statistics_2015-12-14\bin\Debug\HAL_Statistics_2015-12-14.xml
+C:\Users\daniel.elmnas\AppData\Local\Temporary Projects\HAL_Statistics_2015-12-14\obj\x86\Debug\HAL_Statistics_2015_12_14.Form1.resources
+C:\Users\daniel.elmnas\AppData\Local\Temporary Projects\HAL_Statistics_2015-12-14\obj\x86\Debug\HAL_Statistics_2015_12_14.Resources.resources
+C:\Users\daniel.elmnas\AppData\Local\Temporary Projects\HAL_Statistics_2015-12-14\obj\x86\Debug\HAL_Statistics_2015-12-14.vbproj.GenerateResource.Cache
+C:\Users\daniel.elmnas\AppData\Local\Temporary Projects\HAL_Statistics_2015-12-14\obj\x86\Debug\HAL_Statistics_2015-12-14.exe
+C:\Users\daniel.elmnas\AppData\Local\Temporary Projects\HAL_Statistics_2015-12-14\obj\x86\Debug\HAL_Statistics_2015-12-14.xml
+C:\Users\daniel.elmnas\AppData\Local\Temporary Projects\HAL_Statistics_2015-12-14\obj\x86\Debug\HAL_Statistics_2015-12-14.pdb
+C:\Users\daniel.elmnas\Documents\Visual Studio 2010\Projects\CSharp-Lessons\HAL_Statistics_2015-12-14\HAL_Statistics_2015-12-14\bin\Debug\HAL_Statistics_2015-12-14.exe
+C:\Users\daniel.elmnas\Documents\Visual Studio 2010\Projects\CSharp-Lessons\HAL_Statistics_2015-12-14\HAL_Statistics_2015-12-14\bin\Debug\HAL_Statistics_2015-12-14.pdb
+C:\Users\daniel.elmnas\Documents\Visual Studio 2010\Projects\CSharp-Lessons\HAL_Statistics_2015-12-14\HAL_Statistics_2015-12-14\bin\Debug\HAL_Statistics_2015-12-14.xml
+C:\Users\daniel.elmnas\Documents\Visual Studio 2010\Projects\CSharp-Lessons\HAL_Statistics_2015-12-14\HAL_Statistics_2015-12-14\obj\x86\Debug\HAL_Statistics_2015_12_14.Form1.resources
+C:\Users\daniel.elmnas\Documents\Visual Studio 2010\Projects\CSharp-Lessons\HAL_Statistics_2015-12-14\HAL_Statistics_2015-12-14\obj\x86\Debug\HAL_Statistics_2015_12_14.Resources.resources
+C:\Users\daniel.elmnas\Documents\Visual Studio 2010\Projects\CSharp-Lessons\HAL_Statistics_2015-12-14\HAL_Statistics_2015-12-14\obj\x86\Debug\HAL_Statistics_2015-12-14.vbproj.GenerateResource.Cache
+C:\Users\daniel.elmnas\Documents\Visual Studio 2010\Projects\CSharp-Lessons\HAL_Statistics_2015-12-14\HAL_Statistics_2015-12-14\obj\x86\Debug\HAL_Statistics_2015-12-14.exe
+C:\Users\daniel.elmnas\Documents\Visual Studio 2010\Projects\CSharp-Lessons\HAL_Statistics_2015-12-14\HAL_Statistics_2015-12-14\obj\x86\Debug\HAL_Statistics_2015-12-14.xml
+C:\Users\daniel.elmnas\Documents\Visual Studio 2010\Projects\CSharp-Lessons\HAL_Statistics_2015-12-14\HAL_Statistics_2015-12-14\obj\x86\Debug\HAL_Statistics_2015-12-14.pdb
+C:\Users\daniel.elmnas\Documents\Visual Studio 2010\Projects\C Sharp\HAL_Statistics_2015-12-14\HAL_Statistics_2015-12-14\obj\x86\Debug\HAL_Statistics_2015-12-14.exe
+C:\Users\daniel.elmnas\Documents\Visual Studio 2010\Projects\C Sharp\HAL_Statistics_2015-12-14\HAL_Statistics_2015-12-14\obj\x86\Debug\HAL_Statistics_2015-12-14.xml
+C:\Users\daniel.elmnas\Documents\Visual Studio 2010\Projects\C Sharp\HAL_Statistics_2015-12-14\HAL_Statistics_2015-12-14\obj\x86\Debug\HAL_Statistics_2015-12-14.pdb
+C:\Users\daniel.elmnas\Documents\Visual Studio 2010\Projects\VB\HAL_Statistics_2015-12-14\HAL_Statistics_2015-12-14\obj\x86\Debug\HAL_Statistics_2015-12-14.exe
+C:\Users\daniel.elmnas\Documents\Visual Studio 2010\Projects\VB\HAL_Statistics_2015-12-14\HAL_Statistics_2015-12-14\obj\x86\Debug\HAL_Statistics_2015-12-14.xml
+C:\Users\daniel.elmnas\Documents\Visual Studio 2010\Projects\VB\HAL_Statistics_2015-12-14\HAL_Statistics_2015-12-14\obj\x86\Debug\HAL_Statistics_2015-12-14.pdb

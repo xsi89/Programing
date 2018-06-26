@@ -1,0 +1,25 @@
+C:\Users\Elmnas\Documents\Visual Studio 2010\Projects\Sonos_streamer\Sonos_streamer\bin\Debug\Sonos_streamer.exe
+C:\Users\Elmnas\Documents\Visual Studio 2010\Projects\Sonos_streamer\Sonos_streamer\bin\Debug\Sonos_streamer.pdb
+C:\Users\Elmnas\Documents\Visual Studio 2010\Projects\Sonos_streamer\Sonos_streamer\bin\Debug\Sonos_streamer.xml
+C:\Users\Elmnas\Documents\Visual Studio 2010\Projects\Sonos_streamer\Sonos_streamer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Elmnas\Documents\Visual Studio 2010\Projects\Sonos_streamer\Sonos_streamer\obj\x86\Debug\Sonos_streamer.Form1.resources
+C:\Users\Elmnas\Documents\Visual Studio 2010\Projects\Sonos_streamer\Sonos_streamer\obj\x86\Debug\Sonos_streamer.Resources.resources
+C:\Users\Elmnas\Documents\Visual Studio 2010\Projects\Sonos_streamer\Sonos_streamer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Elmnas\Documents\Visual Studio 2010\Projects\Sonos_streamer\Sonos_streamer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Elmnas\Documents\Visual Studio 2010\Projects\Sonos_streamer\Sonos_streamer\obj\x86\Debug\Sonos_streamer.exe
+C:\Users\Elmnas\Documents\Visual Studio 2010\Projects\Sonos_streamer\Sonos_streamer\obj\x86\Debug\Sonos_streamer.xml
+C:\Users\Elmnas\Documents\Visual Studio 2010\Projects\Sonos_streamer\Sonos_streamer\obj\x86\Debug\Sonos_streamer.pdb
+C:\Users\Elmnas\Documents\Visual Studio 2010\Projects\Sonos_streamer\Sonos_streamer\bin\Debug\System.Windows.dll
+C:\Users\Elmnas\Desktop\Sonos_streamer\obj\x86\Debug\Sonos_streamer.exe
+C:\Users\Elmnas\Desktop\Sonos_streamer\obj\x86\Debug\Sonos_streamer.xml
+C:\Users\Elmnas\Desktop\Sonos_streamer\obj\x86\Debug\Sonos_streamer.pdb
+G:\Programing Projects\Visual Basic\C#\Sonos_streamer\obj\x86\Debug\Sonos_streamer.exe
+G:\Programing Projects\Visual Basic\C#\Sonos_streamer\obj\x86\Debug\Sonos_streamer.xml
+G:\Programing Projects\Visual Basic\C#\Sonos_streamer\obj\x86\Debug\Sonos_streamer.pdb
+G:\Programing Projects\Visual Basic\C#\Sonos_streamer\bin\Debug\Sonos_streamer.exe
+G:\Programing Projects\Visual Basic\C#\Sonos_streamer\bin\Debug\Sonos_streamer.pdb
+G:\Programing Projects\Visual Basic\C#\Sonos_streamer\bin\Debug\Sonos_streamer.xml
+G:\Programing Projects\Visual Basic\C#\Sonos_streamer\obj\x86\Debug\Sonos_streamer.vbprojResolveAssemblyReference.cache
+G:\Programing Projects\Visual Basic\C#\Sonos_streamer\obj\x86\Debug\Sonos_streamer.Form1.resources
+G:\Programing Projects\Visual Basic\C#\Sonos_streamer\obj\x86\Debug\Sonos_streamer.Resources.resources
+G:\Programing Projects\Visual Basic\C#\Sonos_streamer\obj\x86\Debug\Sonos_streamer.vbproj.GenerateResource.Cache

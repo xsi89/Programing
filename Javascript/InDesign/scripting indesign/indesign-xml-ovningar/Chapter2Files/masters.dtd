@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT master (artist)*>
+<!ELEMENT artist (image, name, born, died, birthplace, placeofdeath, skills)>
+<!ELEMENT image EMPTY>
+<!ELEMENT name (firstname?, lastname?)>
+<!ELEMENT firstname (#PCDATA)>
+<!ELEMENT lastname (#PCDATA)>
+<!ELEMENT born (#PCDATA)>
+<!ELEMENT died (#PCDATA)>
+<!ELEMENT birthplace (#PCDATA)>
+<!ELEMENT placeofdeath (#PCDATA)>
+<!ELEMENT skills (#PCDATA)>
+<!ATTLIST image href CDATA #REQUIRED>

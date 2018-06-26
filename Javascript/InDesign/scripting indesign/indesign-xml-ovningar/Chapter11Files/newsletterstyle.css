@@ -1,0 +1,167 @@
+div#left { 
+	width:190px; 
+	float:left; 
+}
+
+div#main { 
+	width:475px; 
+	margin-left:210px; 
+}
+
+div#right {
+	width:190px;
+	top:210px;
+	left: 745px;
+	position:absolute;
+	}
+
+#issue-id {
+	height: 30px;
+	width: 950px;
+}
+#issue-id h4 {
+	text-align:right;
+	padding-right:15px;
+	
+}
+body {
+	font-family:"Trebuchet MS";
+	padding-top:150px;
+	background-image:url(images/newsbanner.jpg);
+	background-repeat:no-repeat;
+}
+
+p {
+	font-size:10pt;
+	line-height: 14pt;
+	padding-bottom:5px;
+	padding-top:3px;
+	margin-top: 3px;
+	margin-bottom: 3px;
+}
+h1 {
+	font-size: 24px;
+	line-height: 26px;
+	margin-top: 10px;
+	margin-bottom: 3px;
+	padding-top: 3px;
+	padding-bottom: 3px;
+}
+h2 {
+	font-size: 20px;
+	line-height: 23px;
+	margin-top: 10px;
+	margin-bottom: 5px;
+	padding-top: 3px;
+	padding-bottom: 3px;
+}
+h3 {
+	font-size: 17px;
+	line-height: 19px;
+	margin-top: 10px;
+	margin-right: 0px;
+	margin-bottom: 2px;
+	margin-left: 0px;
+	padding-top: 3px;
+	padding-right: 5px;
+	padding-bottom: 0px;
+	padding-left: 5px;
+}
+
+#left p { color:#009900; }
+
+#right p { color:#000099; } 
+
+#events {
+	background-image:url(images/eventshead.jpg); 
+	background-repeat: no-repeat; 
+	background-position: 0px 0px; 
+	background-color: #D5FFD5;
+	margin-top: 0px; 
+	padding-top: 40px; 
+	padding-bottom: 20px;
+}
+
+#greenthumb {
+	background-image: url(images/Greenthumbead.jpg); 
+	background-repeat: no-repeat; 
+	background-position: 0px 0px;
+	padding-top: 40px; 
+	padding-left:5px;
+	background-color: #D5FFD5; 
+	padding-bottom: 10px; 
+	margin-top: 15px;
+}
+.green {
+	color: #009933;
+}
+.blue {
+	color: #0033CC;
+}
+
+#toc {
+	background-color: #FFFFCC; 
+	background-image: url(images/TOChead.jpg); 
+	background-repeat: no-repeat;
+	background-position: 0px 0px; 
+	padding-top: 35px; 
+	padding-bottom: 20px; 
+}
+
+#toptips {
+	background-color: #DFF9FF; 
+	background-image: url(images/Toptipshead.jpg); 
+	background-repeat: no-repeat;
+	background-position: 0px 0px; 
+	padding-top: 35px; 
+	padding-bottom: 20px; 
+	margin-top: 15px;
+}
+
+.event {
+	font-weight: bold;
+	color: #0DB14A;
+	text-align: center;
+}
+.eventdate {
+	font-weight: bold;
+	color:#000;
+	text-align: center;
+	border-bottom-width: 3px;
+	border-bottom-style: dotted;
+	border-bottom-color: #0DB14A;
+	margin-right: 40px;
+	margin-left: 40px;
+	padding-bottom: 5px;
+}
+.boldblue {
+	font-weight: bold;
+	color: #0000CC;
+}
+.tocitem {
+	font-size:12pt;
+	padding-right:5px; 
+	padding-left:5px;
+	padding-top:5px;
+	padding-bottom:5px;
+}
+.bodycal, .bodytips, { 
+	padding-right:5px; 
+	padding-left:5px;
+}
+
+.pgnumber {
+	color: #FFFFCC;	
+}
+
+.volume_no { 
+	color:#009933;
+}
+
+.issue_no	{
+	color:#0000CC;
+}
+
+.issue_month {
+	color:#009933;
+}

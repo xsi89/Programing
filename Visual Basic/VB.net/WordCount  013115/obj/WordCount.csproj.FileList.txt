@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WordCount.Form1.resources
+obj\Debug\WordCount.Properties.Resources.resources
+obj\Debug\WordCount.csproj.GenerateResource.Cache
+bin\Debug\WordCount.exe
+bin\Debug\WordCount.pdb
+obj\Debug\WordCount.exe
+obj\Debug\WordCount.pdb

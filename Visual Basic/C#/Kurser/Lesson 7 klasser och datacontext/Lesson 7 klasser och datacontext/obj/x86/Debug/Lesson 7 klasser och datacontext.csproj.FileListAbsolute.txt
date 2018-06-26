@@ -1,0 +1,2 @@
+C:\Users\daniel.elmnas\Documents\Visual Studio 2010\Projects\CSharp-Lessons\Lesson 7 klasser och datacontext\Lesson 7 klasser och datacontext\bin\Debug\Lesson 7 klasser och datacontext.exe.config
+C:\Users\daniel.elmnas\Documents\Visual Studio 2010\Projects\CSharp-Lessons\Lesson 7 klasser och datacontext\Lesson 7 klasser och datacontext\obj\x86\Debug\Lesson 7 klasser och datacontext.csprojResolveAssemblyReference.cache

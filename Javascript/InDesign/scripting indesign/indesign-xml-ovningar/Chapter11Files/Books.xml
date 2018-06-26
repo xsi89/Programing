@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BK><Book><producttype>Book</producttype>
+<productname>A Connecticut Yankee in King Arthur&apos;s Court</productname>
+<artistfirstname>Mark</artistfirstname>
+<artistlastname>Twain</artistlastname>
+<description>A Connecticut Yankee travels back to King Arthur&apos;s court and adventure ensues. Fun, fun, fun.</description>
+<company>Pocket Books</company>
+<year>1889</year>
+<productid>978-1416534730</productid>
+<price>4.95</price>
+</Book>
+<Book>
+<image>978-0684837888.jpg</image>>
+<producttype>Book</producttype>
+<productname>A Farewell To Arms</productname>
+<artistfirstname>Ernest</artistfirstname>
+<artistlastname>Hemingway</artistlastname>
+<description>The tragic tale of love and loss during WWI.</description>
+<company>Charles Scribner&apos;s Sons</company>
+<year>1929</year>
+<productid>978-0684837888</productid>
+<price>18.15</price>
+</Book>
+<Book>
+<image>978-0679405757.jpg</image>>
+<producttype>Book</producttype>
+<productname>A Portrait of the Artist as a Young Man</productname>
+<artistfirstname>James</artistfirstname>
+<artistlastname>Joyce</artistlastname>
+<description>A a fictionalized memoir of Joyce&apos;s alter ego, Stephen Daedelus, describing his coming of age in Dublin.</description>
+<company>Everyman&apos;s Library</company>
+<year>1916</year>
+<productid>978-0679405757</productid>
+<price>14.25</price>
+</Book>
+<Book>
+<image>978-0141439600.jpg</image>>
+<producttype>Book</producttype>
+<productname>A Tale of Two Cities</productname>
+<artistfirstname>Charles</artistfirstname>
+<artistlastname>Dickens</artistlastname>
+<description>Classic telling of life in two cities, London and Paris, during the upheaval of the French Revolution.</description>
+<company>Penguin Classics</company>
+<year>1859</year>
+<productid>978-0141439600</productid>
+<price>9.95</price>
+</Book>
+<Book>
+<image>978-0486443225.jpg</image>>
+<producttype>Book</producttype>
+<productname>Adventures of Huckleberry Finn</productname>
+<artistfirstname>Mark</artistfirstname>
+<artistlastname>Twain</artistlastname>
+<description>Classic American story of adventure and self-discovery in pre-Civil War Missouri.</description>
+<company>Dover Publications</company>
+<year>1885</year>
+<productid>978-0486443225</productid>
+<price>11.66</price>
+</Book>
+<Book>
+<image>978-0451528612.jpg</image>>
+<producttype>Book</producttype>
+<productname>Anna Karenina</productname>
+<artistfirstname>Leo</artistfirstname>
+<artistlastname>Tolstoy</artistlastname>
+<description>Intricate intrigue of love and scandal in high society of Czarist Russia.</description>
+<company>Signet Classics</company>
+<year>1873</year>
+<productid>978-0451528612</productid>
+<price>9.95</price>
+</Book>
+<Book>
+<image>978-0670202812.jpg</image>>
+<producttype>Book</producttype>
+<productname>Cannery Row</productname>
+<artistfirstname>John</artistfirstname>
+<artistlastname>Steinbeck</artistlastname>
+<description>A slice of blue collar life and love and laughter during the Great Depression Monterrey, California</description>
+<company>Viking</company>
+<year>1945</year>
+<productid>978-0670202812</productid>
+<price>16.55</price>
+</Book>
+<Book>
+<producttype>Book</producttype>
+<productname>Crime and Punishment</productname>
+<artistfirstname>Fyodor</artistfirstname>
+<artistlastname>Dostoyevsky</artistlastname>
+<description>A tale of murder and justice in Czarist Russia</description>
+<company>Everyman&apos;s Library</company>
+<year>1866</year>
+<productid>978-0679420293</productid>
+<price>14.96</price>
+</Book>
+<Book>
+<image>978-0679783411.jpg</image>>
+<producttype>Book</producttype>
+<productname>David Copperfield</productname>
+<artistfirstname>Charles</artistfirstname>
+<artistlastname>Dickens</artistlastname>
+<description>Personal adventure of the title character in England in the early 1800s.</description>
+<company>Modern Library</company>
+<year>1848</year>
+<productid>978-0679783411</productid>
+<price>9.95</price>
+</Book>
+<Book>
+<image>978-0060576059.jpg</image>>
+<producttype>Book</producttype>
+<productname>Death in Venice</productname>
+<artistfirstname>Thomas</artistfirstname>
+<artistlastname>Mann</artistlastname>
+<description>Exploration of forbidden love and obsession with Venice in the background.</description>
+<company>Ecco</company>
+<year>1912</year>
+<productid>978-0060576059</productid>
+<price>9.95</price>
+</Book>
+<Book>
+<image>978-0684803357.jpg</image>>
+<producttype>Book</producttype>
+<productname>For Whom the Bell Tolls</productname>
+<artistfirstname>Ernest</artistfirstname>
+<artistlastname>Hemingway</artistlastname>
+<description>Classic personal drama set in the Spanish Civil War.</description>
+<company>Charles Scribner&apos;s Sons</company>
+<year>1940</year>
+<productid>978-0684803357</productid>
+<price>18.15</price>
+</Book>
+<Book>
+<image>978-0486415864.jpg</image>>
+<producttype>Book</producttype>
+<productname>Great Expectations</productname>
+<artistfirstname>Charles</artistfirstname>
+<artistlastname>Dickens</artistlastname>
+<description>Gripping tale of crime and guilt, revenge and reward in 19th Century England.</description>
+<company>Dover Publication</company>
+<year>1860</year>
+<productid>978-0486415864</productid>
+<price>9.95</price>
+</Book>
+<Book>
+<image>978-0679428015.jpg</image>>
+<producttype>Book</producttype>
+<productname>Heart of Darkness</productname>
+<artistfirstname>Joseph</artistfirstname>
+<artistlastname>Conrad</artistlastname>
+<description>An symbolic journey to the heart of man&apos;s inner demons.</description>
+<company>Everyman&apos;s Library</company>
+<year>1902</year>
+<productid>978-0679428015</productid>
+<price>12.95</price>
+</Book>
+<Book>
+<image>978-0451525260.jpg</image>>
+<producttype>Book</producttype>
+<productname>Les Misérables</productname>
+<artistfirstname>Victor</artistfirstname>
+<artistlastname>Hugo</artistlastname>
+<description>Rich tale of crime, sin, punishment and redemption in pre-revolutionary France.</description>
+<company>Signet Classics</company>
+<year>1862</year>
+<productid>978-0451525260</productid>
+<price>9.95</price>
+</Book>
+<Book>
+<producttype>Book</producttype>
+<productname>Magic Mountain</productname>
+<artistfirstname>Thomas</artistfirstname>
+<artistlastname>Mann</artistlastname>
+<description>Tale of apprenticeship and inner growth before and during WWI Germany</description>
+<company>Vintage</company>
+<year>1929</year>
+<productid>978-0679772873</productid>
+<price>12.24</price>
+</Book>
+<Book>
+<image>978-0394604725.jpg</image>>
+<producttype>Book</producttype>
+<productname>Of Mice and Men</productname>
+<artistfirstname>John</artistfirstname>
+<artistlastname>Steinbeck</artistlastname>
+<description>Tragic and iconic tale of love and friendship told by one of Americas greatest writers.</description>
+<company>Modern Library</company>
+<year>1937</year>
+<productid>978-0394604725</productid>
+<price>19.95</price>
+</Book>
+<Book>
+<image>978-0684830490.jpg</image>>
+<producttype>Book</producttype>
+<productname>Old Man And The Sea</productname>
+<artistfirstname>Ernest</artistfirstname>
+<artistlastname>Hemingway</artistlastname>
+<description>A fish tale for the generations. A classic tale of man versus nature and his eventual defeat and triumph.</description>
+<company>Charles Scribner&apos;s Sons</company>
+<year>1952</year>
+<productid>978-0684830490</productid>
+<price>13.65</price>
+</Book>
+<Book>
+<image>978-1904633082.jpg</image>>
+<producttype>Book</producttype>
+<productname>Oliver Twist</productname>
+<artistfirstname>Charles</artistfirstname>
+<artistlastname>Dickens</artistlastname>
+<description>Tale of an orphan&apos;s journey from despair to triumph.</description>
+<company>Collector&apos;s Library</company>
+<year>1838</year>
+<productid>978-1904633082</productid>
+<price>9.95</price>
+</Book>
+<Book>
+<producttype>Book</producttype>
+<productname>Roughing It</productname>
+<artistfirstname>Mark</artistfirstname>
+<artistlastname>Twain</artistlastname>
+<description>Humorous anecdotes of Twain&apos;s travels in the old west.</description>
+<company>Pocket Books</company>
+<year>1872</year>
+<productid>978-0743436502</productid>
+<price>6.99</price>
+</Book>
+<Book>
+<image>978-0141183596.jpg</image>>
+<producttype>Book</producttype>
+<productname>Tender Is the Night</productname>
+<artistfirstname>F. Scott</artistfirstname>
+<artistlastname>Fitzgerald</artistlastname>
+<description>Classic tale of wealth and tragic romance.</description>
+<company>Penguin Books</company>
+<year>1934</year>
+<productid>978-0141183596</productid>
+<price>8.89</price>
+</Book>
+<Book>
+<image>978-1402714603.jpg</image>>
+<producttype>Book</producttype>
+<productname>The Adventures of Tom Sawyer</productname>
+<artistfirstname>Mark</artistfirstname>
+<artistlastname>Twain</artistlastname>
+<description>Classic American story of life in pre-Civil War Missouri.</description>
+<company>Sterling</company>
+<year>1876</year>
+<productid>978-1402714603</productid>
+<price>9.95</price>
+</Book>
+<Book>
+<image>978-0374528379.jpg</image>>
+<producttype>Book</producttype>
+<productname>The Brothers Karamazov</productname>
+<artistfirstname>Fyodor</artistfirstname>
+<artistlastname>Dostoyevsky</artistlastname>
+<description>A tale of human drama told from the perspective of a father and his three sons.</description>
+<company>Farrar, Straus and Giroux</company>
+<year>1879</year>
+<productid>978-0374528379</productid>
+<price>16.55</price>
+</Book>
+<Book>
+<image>978-0679603351.jpg</image>>
+<producttype>Book</producttype>
+<productname>The Cider House Rules: A Novel</productname>
+<artistfirstname>John</artistfirstname>
+<artistlastname>Irving</artistlastname>
+<description>Classic tale following the life of a doctor who founded an orphanage in rural Maine before WWII and the orphans in his charge.</description>
+<company>Modern Library</company>
+<year>1985</year>
+<productid>978-0679603351</productid>
+<price>18.96</price>
+</Book>
+<Book>
+<image>978-0142000663.jpg</image>>
+<producttype>Book</producttype>
+<productname>The Grapes of Wrath</productname>
+<artistfirstname>John</artistfirstname>
+<artistlastname>Steinbeck</artistlastname>
+<description>Joad family struggle with poverty and dignity in the great Depression.</description>
+<company>Penguin Books</company>
+<year>1939</year>
+<productid>978-0142000663</productid>
+<price>10.88</price>
+</Book>
+<Book>
+<image>978-0684830421.jpg</image>>
+<producttype>Book</producttype>
+<productname>The Great Gatsby</productname>
+<artistfirstname>F. Scott</artistfirstname>
+<artistlastname>Fitzgerald</artistlastname>
+<description>Portrait of the excess and decadence of the Jazz Age. Fitzgerald&apos;s most popular and best selling novel.</description>
+<company>Charles Scribner&apos;s Sons</company>
+<year>1922</year>
+<productid>978-0684830421</productid>
+<price>11.16</price>
+</Book>
+<Book>
+<image>978-0679642572.jpg</image>>
+<producttype>Book</producttype>
+<productname>The Hunchback of Notre-Dame</productname>
+<artistfirstname>Victor</artistfirstname>
+<artistlastname>Hugo</artistlastname>
+<description>Rich tale of tale of love, hate, revenge, and of a deformed man, Quasimodo, in 1482 France.</description>
+<company>Modern Library</company>
+<year>1831</year>
+<productid>978-0679642572</productid>
+<price>10.16</price>
+</Book>
+<Book>
+<image>978-1582183381.jpg</image>>
+<producttype>Book</producttype>
+<productname>The Prince and the Pauper</productname>
+<artistfirstname>Mark</artistfirstname>
+<artistlastname>Twain</artistlastname>
+<description>Classic tale of mistaken identity, intrigue and swashbuckling all rolled into one.</description>
+<company>Digital Scanning</company>
+<year>1882</year>
+<productid>978-1582183381</productid>
+<price>19.95</price>
+</Book>
+<Book>
+<producttype>Book</producttype>
+<productname>The Scarlet Letter</productname>
+<artistfirstname>Nathaniel</artistfirstname>
+<artistlastname>Hawthorne</artistlastname>
+<description>Guilt, repression, sin and redemption in Puritan New England before the Revolution.</description>
+<company>Prestwick House, Inc.</company>
+<year>1850</year>
+<productid>978-1580498043</productid>
+<price>9.95</price>
+</Book>
+<Book>
+<image>978-0684862217.jpg</image>>
+<producttype>Book</producttype>
+<productname>The Snows of Kilimanjaro and Other Short Stories</productname>
+<artistfirstname>Ernest</artistfirstname>
+<artistlastname>Hemingway</artistlastname>
+<description>Life and death and adventure across Europe and Africa.</description>
+<company>Charles Scribner&apos;s Sons</company>
+<year>1936</year>
+<productid>978-0684862217</productid>
+<price>16.55</price>
+</Book>
+<Book>
+<image>978-0684830513.jpg</image>>
+<producttype>Book</producttype>
+<productname>The Sun Also Rises</productname>
+<artistfirstname>Ernest</artistfirstname>
+<artistlastname>Hemingway</artistlastname>
+<description>Follow the adventures of Jake Barnes through pre-Civil War Spain</description>
+<company>Charles Scribner&apos;s Sons</company>
+<year>1926</year>
+<productid>978-0684830513</productid>
+<price>16.55</price>
+</Book>
+<Book>
+<image>978-0679603061.jpg</image>>
+<producttype>Book</producttype>
+<productname>The World According to Garp</productname>
+<artistfirstname>John</artistfirstname>
+<artistlastname>Irving</artistlastname>
+<description>An American tale of realistic surrealism following the life of fictional novelist T. S. Garp</description>
+<company>Modern Library</company>
+<year>1978</year>
+<productid>978-0679603061</productid>
+<price>16.46</price>
+</Book>
+<Book>
+<image>978-0684859231.jpg</image>>
+<producttype>Book</producttype>
+<productname>To Have and Have Not</productname>
+<artistfirstname>Ernest</artistfirstname>
+<artistlastname>Hemingway</artistlastname>
+<description>Adventure, danger and betrayal in pre-Civil War Cuba</description>
+<company>Charles Scribner&apos;s Sons</company>
+<year>1944</year>
+<productid>978-0684859231</productid>
+<price>16.5</price>
+</Book>
+<Book>
+<image>978-0141182803.jpg</image>>
+<producttype>Book</producttype>
+<productname>Ulysses</productname>
+<artistfirstname>James</artistfirstname>
+<artistlastname>Joyce</artistlastname>
+<description>The journey of Leopold Bloom through Dublin during one day in 1904.</description>
+<company>Penguin Books</company>
+<year>1922</year>
+<productid>978-0141182803</productid>
+<price>13.37</price>
+</Book>
+<Book>
+<image>978-0679600848.jpg</image>>
+<producttype>Book</producttype>
+<productname>War and Peace</productname>
+<artistfirstname>Leo</artistfirstname>
+<artistlastname>Tolstoy</artistlastname>
+<description>Vast tableau of life and death in Czarist Russia during the Napoleanic Wars.</description>
+<company>Modern Library</company>
+<year>1869</year>
+<productid>978-0679600848</productid>
+<price>18.94</price>
+</Book>
+</BK>

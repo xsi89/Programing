@@ -1,0 +1,9 @@
+C:\Users\daniel.elmnas\AppData\Local\Temporary Projects\HAL_Statistics\obj\x86\Debug\HAL_Statistics.Form1.resources
+C:\Users\daniel.elmnas\AppData\Local\Temporary Projects\HAL_Statistics\obj\x86\Debug\HAL_Statistics.Resources.resources
+C:\Users\daniel.elmnas\AppData\Local\Temporary Projects\HAL_Statistics\obj\x86\Debug\HAL_Statistics.vbproj.GenerateResource.Cache
+C:\Users\daniel.elmnas\AppData\Local\Temporary Projects\HAL_Statistics\bin\Debug\HAL_Statistics.exe
+C:\Users\daniel.elmnas\AppData\Local\Temporary Projects\HAL_Statistics\bin\Debug\HAL_Statistics.pdb
+C:\Users\daniel.elmnas\AppData\Local\Temporary Projects\HAL_Statistics\bin\Debug\HAL_Statistics.xml
+C:\Users\daniel.elmnas\AppData\Local\Temporary Projects\HAL_Statistics\obj\x86\Debug\HAL_Statistics.exe
+C:\Users\daniel.elmnas\AppData\Local\Temporary Projects\HAL_Statistics\obj\x86\Debug\HAL_Statistics.xml
+C:\Users\daniel.elmnas\AppData\Local\Temporary Projects\HAL_Statistics\obj\x86\Debug\HAL_Statistics.pdb

@@ -1,0 +1,12 @@
+C:\Users\daniel.elmnas\Documents\Visual Studio 2010\Projects\HAL_Statistics_Parameters\HAL_Statistics_Parameters\bin\Debug\HAL_Statistics_Parameters.exe
+C:\Users\daniel.elmnas\Documents\Visual Studio 2010\Projects\HAL_Statistics_Parameters\HAL_Statistics_Parameters\bin\Debug\HAL_Statistics_Parameters.pdb
+C:\Users\daniel.elmnas\Documents\Visual Studio 2010\Projects\HAL_Statistics_Parameters\HAL_Statistics_Parameters\bin\Debug\HAL_Statistics_Parameters.xml
+C:\Users\daniel.elmnas\Documents\Visual Studio 2010\Projects\HAL_Statistics_Parameters\HAL_Statistics_Parameters\obj\x86\Debug\HAL_Statistics.Form1.resources
+C:\Users\daniel.elmnas\Documents\Visual Studio 2010\Projects\HAL_Statistics_Parameters\HAL_Statistics_Parameters\obj\x86\Debug\HAL_Statistics.Resources.resources
+C:\Users\daniel.elmnas\Documents\Visual Studio 2010\Projects\HAL_Statistics_Parameters\HAL_Statistics_Parameters\obj\x86\Debug\HAL_Statistics_Parameters.vbproj.GenerateResource.Cache
+C:\Users\daniel.elmnas\Documents\Visual Studio 2010\Projects\HAL_Statistics_Parameters\HAL_Statistics_Parameters\obj\x86\Debug\HAL_Statistics_Parameters.exe
+C:\Users\daniel.elmnas\Documents\Visual Studio 2010\Projects\HAL_Statistics_Parameters\HAL_Statistics_Parameters\obj\x86\Debug\HAL_Statistics_Parameters.xml
+C:\Users\daniel.elmnas\Documents\Visual Studio 2010\Projects\HAL_Statistics_Parameters\HAL_Statistics_Parameters\obj\x86\Debug\HAL_Statistics_Parameters.pdb
+C:\Users\daniel.elmnas\Documents\Visual Studio 2010\Projects\VB\HAL_Statistics_Parameters\HAL_Statistics_Parameters\obj\x86\Debug\HAL_Statistics_Parameters.exe
+C:\Users\daniel.elmnas\Documents\Visual Studio 2010\Projects\VB\HAL_Statistics_Parameters\HAL_Statistics_Parameters\obj\x86\Debug\HAL_Statistics_Parameters.xml
+C:\Users\daniel.elmnas\Documents\Visual Studio 2010\Projects\VB\HAL_Statistics_Parameters\HAL_Statistics_Parameters\obj\x86\Debug\HAL_Statistics_Parameters.pdb

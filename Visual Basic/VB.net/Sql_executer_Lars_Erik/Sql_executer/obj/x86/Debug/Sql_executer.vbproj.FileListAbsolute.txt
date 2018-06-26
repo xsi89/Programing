@@ -1,0 +1,29 @@
+C:\Users\daniel.elmnas\AppData\Local\Temporary Projects\Sql_executer\bin\Debug\Sql_executer.exe
+C:\Users\daniel.elmnas\AppData\Local\Temporary Projects\Sql_executer\bin\Debug\Sql_executer.pdb
+C:\Users\daniel.elmnas\AppData\Local\Temporary Projects\Sql_executer\bin\Debug\Sql_executer.xml
+C:\Users\daniel.elmnas\AppData\Local\Temporary Projects\Sql_executer\obj\x86\Debug\Sql_executer.Form1.resources
+C:\Users\daniel.elmnas\AppData\Local\Temporary Projects\Sql_executer\obj\x86\Debug\Sql_executer.Resources.resources
+C:\Users\daniel.elmnas\AppData\Local\Temporary Projects\Sql_executer\obj\x86\Debug\Sql_executer.vbproj.GenerateResource.Cache
+C:\Users\daniel.elmnas\AppData\Local\Temporary Projects\Sql_executer\obj\x86\Debug\Sql_executer.exe
+C:\Users\daniel.elmnas\AppData\Local\Temporary Projects\Sql_executer\obj\x86\Debug\Sql_executer.xml
+C:\Users\daniel.elmnas\AppData\Local\Temporary Projects\Sql_executer\obj\x86\Debug\Sql_executer.pdb
+C:\Users\daniel.elmnas\documents\visual studio 2010\Projects\Sql_executer\Sql_executer\bin\Debug\Sql_executer.exe.config
+C:\Users\daniel.elmnas\documents\visual studio 2010\Projects\Sql_executer\Sql_executer\bin\Debug\Sql_executer.exe
+C:\Users\daniel.elmnas\documents\visual studio 2010\Projects\Sql_executer\Sql_executer\bin\Debug\Sql_executer.pdb
+C:\Users\daniel.elmnas\documents\visual studio 2010\Projects\Sql_executer\Sql_executer\bin\Debug\Sql_executer.xml
+C:\Users\daniel.elmnas\documents\visual studio 2010\Projects\Sql_executer\Sql_executer\obj\x86\Debug\Sql_executer.HAL_Statistics.resources
+C:\Users\daniel.elmnas\documents\visual studio 2010\Projects\Sql_executer\Sql_executer\obj\x86\Debug\Sql_executer.Resources.resources
+C:\Users\daniel.elmnas\documents\visual studio 2010\Projects\Sql_executer\Sql_executer\obj\x86\Debug\Sql_executer.Select_Columns.resources
+C:\Users\daniel.elmnas\documents\visual studio 2010\Projects\Sql_executer\Sql_executer\obj\x86\Debug\Sql_executer.vbproj.GenerateResource.Cache
+C:\Users\daniel.elmnas\documents\visual studio 2010\Projects\Sql_executer\Sql_executer\obj\x86\Debug\Sql_executer.exe
+C:\Users\daniel.elmnas\documents\visual studio 2010\Projects\Sql_executer\Sql_executer\obj\x86\Debug\Sql_executer.xml
+C:\Users\daniel.elmnas\documents\visual studio 2010\Projects\Sql_executer\Sql_executer\obj\x86\Debug\Sql_executer.pdb
+C:\Users\daniel.elmnas\Documents\Visual Studio 2010\Projects\Sql_executer\Sql_executer\obj\x86\Debug\Sql_executer.vbprojResolveAssemblyReference.cache
+C:\Users\daniel.elmnas\Documents\Visual Studio 2010\Projects\Sql_executer_Lars_Erik\Sql_executer\bin\Debug\Sql_executer.exe.config
+C:\Users\daniel.elmnas\Documents\Visual Studio 2010\Projects\Sql_executer_Lars_Erik\Sql_executer\obj\x86\Debug\Sql_executer.exe
+C:\Users\daniel.elmnas\Documents\Visual Studio 2010\Projects\Sql_executer_Lars_Erik\Sql_executer\obj\x86\Debug\Sql_executer.xml
+C:\Users\daniel.elmnas\Documents\Visual Studio 2010\Projects\Sql_executer_Lars_Erik\Sql_executer\obj\x86\Debug\Sql_executer.pdb
+C:\Users\daniel.elmnas\Documents\Visual Studio 2010\Projects\VB\Sql_executer_Lars_Erik\Sql_executer\bin\Debug\Sql_executer.exe.config
+C:\Users\daniel.elmnas\Documents\Visual Studio 2010\Projects\VB\Sql_executer_Lars_Erik\Sql_executer\obj\x86\Debug\Sql_executer.exe
+C:\Users\daniel.elmnas\Documents\Visual Studio 2010\Projects\VB\Sql_executer_Lars_Erik\Sql_executer\obj\x86\Debug\Sql_executer.xml
+C:\Users\daniel.elmnas\Documents\Visual Studio 2010\Projects\VB\Sql_executer_Lars_Erik\Sql_executer\obj\x86\Debug\Sql_executer.pdb

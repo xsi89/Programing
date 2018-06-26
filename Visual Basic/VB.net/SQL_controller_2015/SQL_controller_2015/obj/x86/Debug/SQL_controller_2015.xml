@@ -1,0 +1,2716 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SQL_controller_2015
+</name>
+</assembly>
+<members>
+<member name="T:SQL_controller_2015.Teknotrans_DevDataSet.AreaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.AreaKnowledgeLevelDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.ChampDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.ChampWebBaseCntrDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.CommissionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.CommissionId_CommissionRowDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.Company_informationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.Company_pricelistDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.CompanyAttentionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.CompanyCompanyId_GroupIdDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.CompanyGroupDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.CompanyMainDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.CompanyMain_SNIDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.CompanyMasterId_SlaveIdDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.CompanyNo_areaIdDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.CompanyNo_invoiceAddressDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.CompanyPriceAgreementDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.CompanyProjectGroupDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.CompanyProofreaderDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.CompanyProofreaderVolvoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.CompanyTermlistPriorityDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.CompanyTMDocTypeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.CompanyTMTextTypeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.CompanyTranslatorPreferredDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.CompanyTranslatorRejectedDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.CustomerNo_fileLangRegExpDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.DEPRECATED_CompanyDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.DEPRECATED_Company_RFNDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.DEPRECATED_CustomerNo_fileLangIdDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.DEPRECATED_DiscountDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.DEPRECATED_IHListDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.DEPRECATED_IHUpdate1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.DEPRECATED_ImportCHAMPFilenameDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.DEPRECATED_ImportTranslatorLanguageDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.DEPRECATED_MigrationErrorLogDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.DEPRECATED_OpusDocTypeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.DEPRECATED_UserShortcutDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.DEPRECATED_UserTranslatorLoginDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.EventDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.FileformatDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.InvoiceRowDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.InvoiceTTInvoiceDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.InvoiceXORDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.J2450OrderDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.J2450OrderradDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.LeadDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.LogTMUnitCountDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.LogTTRemoteActionsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.LogUppladdadeFilnamnDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.NewsOSTDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.OpusOrderDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.Opusorder_areaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.OpusOrderrowDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.OpusOrderrowLateDeliveryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.OpusOrderTypeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.OpusTextTypeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.OrderRow_FileReferenceDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.OrderRow_FileTranslateDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.OrderRow_priceRowCustomerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.OrderRow_priceRowTranslatorDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.OrderTemplateDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.OrderTemplateAreaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.OrderTemplateLanguageDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.OrderVolvoBatchId_orderNoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.OrderVolvoCompanyDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.OrderVolvoCompanyDocTypeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.OrderVolvoDiscountDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.OrderVolvoDocTypeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.OrderVolvoFileInformationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.OrderVolvoLanguageNameDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.OrderVolvoOrderRowDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.OrderVolvoOrderRow_priceRowTranslatorDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.OrderVolvoPricelistDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.OrderVolvoPricelist_2003DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.OrderVolvoPricelist_2009DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.OrderVolvoPricelist_2012DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.OrderVolvoTTOrderDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.OrderVolvoVTCHeaderDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.PhrasesDeliveryNoteDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.PhrasesLateDeliveryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.PhrasesOrderConfirmationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.PhrasesRefCommentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.PhrasesTenderDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.PostItDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.PriceVolumeLevelDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.ProjectGroupDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.ProofreaderDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.ProofreaderLangSrcDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.ProofreaderLangTrgDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.QALevelDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.QualityAntonymDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.QualityAntonymVolvo_IHDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.QualityEntityDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.QualityEntityExceptionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.QualityExclusionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.QualityExclusionVolvoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.QualityReportDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.QualityReportDataDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.QualityReportDataVolvoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.QualityReportVolvoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.QualityTextErrorDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.QualityTextErrorVolvoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.QualityTradosId_quotesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.QualityWarningDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.QualityWarningVolvoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.QuotationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.Quotation_areaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.QuotationrowDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.RFNDistributionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.RolesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.SendFilePageDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.SNIDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.SprakkoderDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TermbaseDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TermbaseAbbrevationsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TermbaseCommentsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TermbaseLangDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TermbaseSubmissAbbrevDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TermbaseSubmissionsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TerminologyTechlaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TerminologyTechlaTermOwnerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TPTDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TPT_ErrorLogDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TPT_FileCommentsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TPT_PrContactInfoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TPT_RefFilesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TPT_RowDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TPT_Row_RefFileDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TPT_RowFileDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TPT_StatusDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TranslatorDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.Translator_AreaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.Translator_HistoryLogDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.Translator_PriceDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.Translator_ProjectGroupDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.Translator_ProspectsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.Translator_SrcLangDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.Translator_TermsOfPaymentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.Translator_TrgLangDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TranslatorVacationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TSPFileTypeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TSPOrderDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TSPOrderFileDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TSPOrderProofreaderDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TSPOrderrowDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TSPRightsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TSPRightsId_UserWebLoginIdDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TSPTemplateDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TSPTemplateAreaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TSPTemplateLangDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TSPTemplateLangSrcSelectableDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TSPTemplateLangTrgSelectableDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.User_RolesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.UserCompanyTextTypesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.UserExchangeRateDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.UserLocationsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.UserOrdererDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.UserOrderType_StaticTOIDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.UserPentaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.UserSalesMarginsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.UserSettingsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.UserSettingsHALDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.UserTextTypeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.UserTimelogDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.UserWebLoginDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.VersionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.AreaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.AreaKnowledgeLevelRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.ChampRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.ChampWebBaseCntrRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.CommissionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.CommissionId_CommissionRowRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.Company_informationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.Company_pricelistRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.CompanyAttentionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.CompanyCompanyId_GroupIdRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.CompanyGroupRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.CompanyMainRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.CompanyMain_SNIRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.CompanyMasterId_SlaveIdRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.CompanyNo_areaIdRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.CompanyNo_invoiceAddressRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.CompanyPriceAgreementRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.CompanyProjectGroupRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.CompanyProofreaderRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.CompanyProofreaderVolvoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.CompanyTermlistPriorityRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.CompanyTMDocTypeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.CompanyTMTextTypeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.CompanyTranslatorPreferredRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.CompanyTranslatorRejectedRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.CustomerNo_fileLangRegExpRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.DEPRECATED_CompanyRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.DEPRECATED_Company_RFNRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.DEPRECATED_CustomerNo_fileLangIdRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.DEPRECATED_DiscountRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.DEPRECATED_IHListRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.DEPRECATED_IHUpdate1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.DEPRECATED_ImportCHAMPFilenameRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.DEPRECATED_ImportTranslatorLanguageRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.DEPRECATED_MigrationErrorLogRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.DEPRECATED_OpusDocTypeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.DEPRECATED_UserShortcutRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.DEPRECATED_UserTranslatorLoginRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.EventRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.FileformatRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.InvoiceRowRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.InvoiceTTInvoiceRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.InvoiceXORRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.J2450OrderRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.J2450OrderradRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.LeadRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.LogTMUnitCountRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.LogTTRemoteActionsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.LogUppladdadeFilnamnRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.NewsOSTRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.OpusOrderRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.Opusorder_areaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.OpusOrderrowRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.OpusOrderrowLateDeliveryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.OpusOrderTypeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.OpusTextTypeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.OrderRow_FileReferenceRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.OrderRow_FileTranslateRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.OrderRow_priceRowCustomerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.OrderRow_priceRowTranslatorRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.OrderTemplateRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.OrderTemplateAreaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.OrderTemplateLanguageRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.OrderVolvoBatchId_orderNoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.OrderVolvoCompanyRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.OrderVolvoCompanyDocTypeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.OrderVolvoDiscountRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.OrderVolvoDocTypeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.OrderVolvoFileInformationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.OrderVolvoLanguageNameRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.OrderVolvoOrderRowRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.OrderVolvoOrderRow_priceRowTranslatorRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.OrderVolvoPricelistRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.OrderVolvoPricelist_2003Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.OrderVolvoPricelist_2009Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.OrderVolvoPricelist_2012Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.OrderVolvoTTOrderRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.OrderVolvoVTCHeaderRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.PhrasesDeliveryNoteRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.PhrasesLateDeliveryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.PhrasesOrderConfirmationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.PhrasesRefCommentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.PhrasesTenderRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.PostItRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.PriceVolumeLevelRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.ProjectGroupRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.ProofreaderRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.ProofreaderLangSrcRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.ProofreaderLangTrgRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.QALevelRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.QualityAntonymRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.QualityAntonymVolvo_IHRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.QualityEntityRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.QualityEntityExceptionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.QualityExclusionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.QualityExclusionVolvoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.QualityReportRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.QualityReportDataRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.QualityReportDataVolvoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.QualityReportVolvoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.QualityTextErrorRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.QualityTextErrorVolvoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.QualityTradosId_quotesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.QualityWarningRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.QualityWarningVolvoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.QuotationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.Quotation_areaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.QuotationrowRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.RFNDistributionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.RolesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.SendFilePageRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.SNIRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.SprakkoderRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TermbaseRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TermbaseAbbrevationsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TermbaseCommentsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TermbaseLangRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TermbaseSubmissAbbrevRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TermbaseSubmissionsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TerminologyTechlaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TerminologyTechlaTermOwnerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TPTRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TPT_ErrorLogRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TPT_FileCommentsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TPT_PrContactInfoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TPT_RefFilesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TPT_RowRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TPT_Row_RefFileRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TPT_RowFileRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TPT_StatusRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TranslatorRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.Translator_AreaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.Translator_HistoryLogRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.Translator_PriceRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.Translator_ProjectGroupRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.Translator_ProspectsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.Translator_SrcLangRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.Translator_TermsOfPaymentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.Translator_TrgLangRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TranslatorVacationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TSPFileTypeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TSPOrderRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TSPOrderFileRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TSPOrderProofreaderRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TSPOrderrowRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TSPRightsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TSPRightsId_UserWebLoginIdRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TSPTemplateRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TSPTemplateAreaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TSPTemplateLangRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TSPTemplateLangSrcSelectableRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TSPTemplateLangTrgSelectableRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.User_RolesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.UserCompanyTextTypesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.UserExchangeRateRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.UserLocationsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.UserOrdererRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.UserOrderType_StaticTOIRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.UserPentaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.UserSalesMarginsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.UserSettingsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.UserSettingsHALRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.UserTextTypeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.UserTimelogRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.UserWebLoginRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.VersionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.AreaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.AreaKnowledgeLevelRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.ChampRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.ChampWebBaseCntrRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.CommissionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.CommissionId_CommissionRowRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.Company_informationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.Company_pricelistRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.CompanyAttentionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.CompanyCompanyId_GroupIdRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.CompanyGroupRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.CompanyMainRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.CompanyMain_SNIRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.CompanyMasterId_SlaveIdRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.CompanyNo_areaIdRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.CompanyNo_invoiceAddressRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.CompanyPriceAgreementRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.CompanyProjectGroupRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.CompanyProofreaderRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.CompanyProofreaderVolvoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.CompanyTermlistPriorityRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.CompanyTMDocTypeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.CompanyTMTextTypeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.CompanyTranslatorPreferredRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.CompanyTranslatorRejectedRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.CustomerNo_fileLangRegExpRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.DEPRECATED_CompanyRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.DEPRECATED_Company_RFNRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.DEPRECATED_CustomerNo_fileLangIdRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.DEPRECATED_DiscountRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.DEPRECATED_IHListRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.DEPRECATED_IHUpdate1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.DEPRECATED_ImportCHAMPFilenameRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.DEPRECATED_ImportTranslatorLanguageRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.DEPRECATED_MigrationErrorLogRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.DEPRECATED_OpusDocTypeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.DEPRECATED_UserShortcutRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.DEPRECATED_UserTranslatorLoginRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.EventRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.FileformatRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.InvoiceRowRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.InvoiceTTInvoiceRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.InvoiceXORRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.J2450OrderRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.J2450OrderradRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.LeadRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.LogTMUnitCountRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.LogTTRemoteActionsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.LogUppladdadeFilnamnRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.NewsOSTRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.OpusOrderRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.Opusorder_areaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.OpusOrderrowRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.OpusOrderrowLateDeliveryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.OpusOrderTypeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.OpusTextTypeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.OrderRow_FileReferenceRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.OrderRow_FileTranslateRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.OrderRow_priceRowCustomerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.OrderRow_priceRowTranslatorRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.OrderTemplateRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.OrderTemplateAreaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.OrderTemplateLanguageRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.OrderVolvoBatchId_orderNoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.OrderVolvoCompanyRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.OrderVolvoCompanyDocTypeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.OrderVolvoDiscountRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.OrderVolvoDocTypeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.OrderVolvoFileInformationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.OrderVolvoLanguageNameRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.OrderVolvoOrderRowRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.OrderVolvoOrderRow_priceRowTranslatorRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.OrderVolvoPricelistRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.OrderVolvoPricelist_2003RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.OrderVolvoPricelist_2009RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.OrderVolvoPricelist_2012RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.OrderVolvoTTOrderRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.OrderVolvoVTCHeaderRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.PhrasesDeliveryNoteRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.PhrasesLateDeliveryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.PhrasesOrderConfirmationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.PhrasesRefCommentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.PhrasesTenderRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.PostItRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.PriceVolumeLevelRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.ProjectGroupRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.ProofreaderRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.ProofreaderLangSrcRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.ProofreaderLangTrgRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.QALevelRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.QualityAntonymRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.QualityAntonymVolvo_IHRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.QualityEntityRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.QualityEntityExceptionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.QualityExclusionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.QualityExclusionVolvoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.QualityReportRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.QualityReportDataRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.QualityReportDataVolvoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.QualityReportVolvoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.QualityTextErrorRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.QualityTextErrorVolvoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.QualityTradosId_quotesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.QualityWarningRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.QualityWarningVolvoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.QuotationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.Quotation_areaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.QuotationrowRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.RFNDistributionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.RolesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.SendFilePageRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.SNIRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.SprakkoderRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TermbaseRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TermbaseAbbrevationsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TermbaseCommentsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TermbaseLangRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TermbaseSubmissAbbrevRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TermbaseSubmissionsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TerminologyTechlaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TerminologyTechlaTermOwnerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TPTRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TPT_ErrorLogRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TPT_FileCommentsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TPT_PrContactInfoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TPT_RefFilesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TPT_RowRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TPT_Row_RefFileRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TPT_RowFileRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TPT_StatusRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TranslatorRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.Translator_AreaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.Translator_HistoryLogRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.Translator_PriceRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.Translator_ProjectGroupRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.Translator_ProspectsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.Translator_SrcLangRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.Translator_TermsOfPaymentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.Translator_TrgLangRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TranslatorVacationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TSPFileTypeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TSPOrderRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TSPOrderFileRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TSPOrderProofreaderRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TSPOrderrowRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TSPRightsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TSPRightsId_UserWebLoginIdRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TSPTemplateRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TSPTemplateAreaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TSPTemplateLangRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TSPTemplateLangSrcSelectableRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.TSPTemplateLangTrgSelectableRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.User_RolesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.UserCompanyTextTypesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.UserExchangeRateRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.UserLocationsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.UserOrdererRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.UserOrderType_StaticTOIRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.UserPentaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.UserSalesMarginsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.UserSettingsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.UserSettingsHALRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.UserTextTypeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.UserTimelogRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.UserWebLoginRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet.VersionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.AreaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.AreaKnowledgeLevelTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.ChampTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.ChampWebBaseCntrTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.CommissionTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.CommissionId_CommissionRowTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.Company_informationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.Company_pricelistTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.CompanyAttentionTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.CompanyCompanyId_GroupIdTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.CompanyGroupTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.CompanyMainTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.CompanyMain_SNITableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.CompanyMasterId_SlaveIdTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.CompanyNo_areaIdTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.CompanyNo_invoiceAddressTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.CompanyPriceAgreementTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.CompanyProjectGroupTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.CompanyProofreaderTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.CompanyProofreaderVolvoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.CompanyTermlistPriorityTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.CompanyTMDocTypeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.CompanyTMTextTypeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.CompanyTranslatorPreferredTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.CompanyTranslatorRejectedTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.CustomerNo_fileLangRegExpTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.DEPRECATED_CompanyTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.DEPRECATED_Company_RFNTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.DEPRECATED_CustomerNo_fileLangIdTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.DEPRECATED_DiscountTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.DEPRECATED_IHListTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.DEPRECATED_IHUpdate1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.DEPRECATED_ImportCHAMPFilenameTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.DEPRECATED_ImportTranslatorLanguageTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.DEPRECATED_MigrationErrorLogTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.DEPRECATED_OpusDocTypeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.DEPRECATED_UserShortcutTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.DEPRECATED_UserTranslatorLoginTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.EventTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.FileformatTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.InvoiceRowTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.InvoiceTTInvoiceTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.InvoiceXORTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.J2450OrderTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.J2450OrderradTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.LeadTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.LogTMUnitCountTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.LogTTRemoteActionsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.LogUppladdadeFilnamnTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.NewsOSTTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.OpusOrderTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.Opusorder_areaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.OpusOrderrowTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.OpusOrderrowLateDeliveryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.OpusOrderTypeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.OpusTextTypeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.OrderRow_FileReferenceTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.OrderRow_FileTranslateTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.OrderRow_priceRowCustomerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.OrderRow_priceRowTranslatorTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.OrderTemplateTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.OrderTemplateAreaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.OrderTemplateLanguageTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.OrderVolvoBatchId_orderNoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.OrderVolvoCompanyTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.OrderVolvoCompanyDocTypeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.OrderVolvoDiscountTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.OrderVolvoDocTypeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.OrderVolvoFileInformationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.OrderVolvoLanguageNameTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.OrderVolvoOrderRowTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.OrderVolvoOrderRow_priceRowTranslatorTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.OrderVolvoPricelistTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.OrderVolvoPricelist_2003TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.OrderVolvoPricelist_2009TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.OrderVolvoPricelist_2012TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.OrderVolvoTTOrderTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.OrderVolvoVTCHeaderTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.PhrasesDeliveryNoteTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.PhrasesLateDeliveryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.PhrasesOrderConfirmationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.PhrasesRefCommentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.PhrasesTenderTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.PostItTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.PriceVolumeLevelTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.ProjectGroupTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.ProofreaderTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.ProofreaderLangSrcTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.ProofreaderLangTrgTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.QALevelTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.QualityAntonymTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.QualityAntonymVolvo_IHTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.QualityEntityTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.QualityEntityExceptionTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.QualityExclusionTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.QualityExclusionVolvoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.QualityReportTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.QualityReportDataTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.QualityReportDataVolvoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.QualityReportVolvoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.QualityTextErrorTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.QualityTextErrorVolvoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.QualityTradosId_quotesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.QualityWarningTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.QualityWarningVolvoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.QuotationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.Quotation_areaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.QuotationrowTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.RFNDistributionTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.RolesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.SendFilePageTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.SNITableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.SprakkoderTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.TermbaseTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.TermbaseAbbrevationsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.TermbaseCommentsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.TermbaseLangTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.TermbaseSubmissAbbrevTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.TermbaseSubmissionsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.TerminologyTechlaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.TerminologyTechlaTermOwnerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.TPTTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.TPT_ErrorLogTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.TPT_FileCommentsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.TPT_PrContactInfoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.TPT_RefFilesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.TPT_RowTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.TPT_Row_RefFileTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.TPT_RowFileTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.TPT_StatusTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.TranslatorTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.Translator_AreaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.Translator_HistoryLogTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.Translator_PriceTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.Translator_ProjectGroupTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.Translator_ProspectsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.Translator_SrcLangTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.Translator_TermsOfPaymentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.Translator_TrgLangTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.TranslatorVacationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.TSPFileTypeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.TSPOrderTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.TSPOrderFileTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.TSPOrderProofreaderTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.TSPOrderrowTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.TSPRightsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.TSPRightsId_UserWebLoginIdTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.TSPTemplateTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.TSPTemplateAreaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.TSPTemplateLangTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.TSPTemplateLangSrcSelectableTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.TSPTemplateLangTrgSelectableTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.User_RolesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.UserCompanyTextTypesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.UserExchangeRateTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.UserLocationsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.UserOrdererTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.UserOrderType_StaticTOITableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.UserPentaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.UserSalesMarginsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.UserSettingsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.UserSettingsHALTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.UserTextTypeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.UserTimelogTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.UserWebLoginTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.VersionTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(SQL_controller_2015.Teknotrans_DevDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(SQL_controller_2015.Teknotrans_DevDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(SQL_controller_2015.Teknotrans_DevDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.TableAdapterManager.UpdateAll(SQL_controller_2015.Teknotrans_DevDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:SQL_controller_2015.Teknotrans_DevDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:SQL_controller_2015.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:SQL_controller_2015.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:SQL_controller_2015.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

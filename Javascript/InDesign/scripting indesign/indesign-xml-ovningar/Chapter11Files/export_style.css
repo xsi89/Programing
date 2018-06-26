@@ -1,0 +1,39 @@
+@charset "utf-8";
+body {
+	font-family: "Trebuchet MS", Tahoma, Verdana, Arial, Helvetica, sans-serif;
+}
+table {
+	width: 750px;
+	border: 1px solid #660000;
+	padding: 0;
+	border-collapse: collapse;
+}
+h3 {
+	text-align: center;
+}
+tr {
+	background-color:#FFFFCC;
+	border-bottom:thin #000000;
+	margin: 0px;
+	padding: 0px;
+
+}
+
+th {
+	font-family: "Trebuchet MS", Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	background-color: #003366;
+	color: #FFFFFF;
+	padding: 5px;
+	border-top-color: #336699;
+	border-top-width: medium;
+	border-bottom-color: #000033;
+	border-bottom-width: medium;
+}
+td {
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-right: 10px;
+	padding-left: 5px;
+	border-top-width: 1px;
+	border-top-style: solid;
+}

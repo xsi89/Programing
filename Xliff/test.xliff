@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="MyApp/Base.lproj/Main.storyboard" datatype="plaintext" xml:space="preserve" source-language="en-US" target-language="de-DE">
+    <header>
+      <tool tool-id="Teknotrans" tool-name="SD-Studio"/>
+    </header>
+    <body>
+      <trans-unit id="1">
+        <source>TODO List</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="2">
+        <source>Enter your credentials below to login</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="3">
+        <source>Login successful !\nWelcome back %s !</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="4">
+        <source>Make sure you've entered the correct username and password</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="5">
+        <source>I forgot my password</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="6">
+        <source>Enter your address in the field below. A new password will be sent to your inbox.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="7">
+        <source>Sign up for free! No credit card required!</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="8">
+        <source>Thank you for signing up !\nPlease check your email address to activate your account.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="9">
+        <source>We were unable to sign you up.\nPlease correct the marked fields.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="10">
+        <source>Terms and conditions</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="11">
+        <source>Just one user online</source>
+        <target></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

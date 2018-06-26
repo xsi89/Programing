@@ -1,0 +1,13 @@
+C:\Users\Elmnas\Documents\Visual Studio 2015\Projects\Sonos Streamer\Sonos Streamer\Sonos Streamer\bin\Debug\Sonos Streamer.exe.config
+C:\Users\Elmnas\Documents\Visual Studio 2015\Projects\Sonos Streamer\Sonos Streamer\Sonos Streamer\obj\Debug\Sonos Streamer.vbprojResolveAssemblyReference.cache
+C:\Users\Elmnas\Documents\Visual Studio 2015\Projects\Sonos Streamer\Sonos Streamer\Sonos Streamer\obj\Debug\Sonos_Streamer.Form1.resources
+C:\Users\Elmnas\Documents\Visual Studio 2015\Projects\Sonos Streamer\Sonos Streamer\Sonos Streamer\obj\Debug\Sonos_Streamer.Resources.resources
+C:\Users\Elmnas\Documents\Visual Studio 2015\Projects\Sonos Streamer\Sonos Streamer\Sonos Streamer\obj\Debug\Sonos Streamer.vbproj.GenerateResource.Cache
+C:\Users\Elmnas\Documents\Visual Studio 2015\Projects\Sonos Streamer\Sonos Streamer\Sonos Streamer\bin\Debug\Sonos Streamer.exe
+C:\Users\Elmnas\Documents\Visual Studio 2015\Projects\Sonos Streamer\Sonos Streamer\Sonos Streamer\bin\Debug\Sonos Streamer.pdb
+C:\Users\Elmnas\Documents\Visual Studio 2015\Projects\Sonos Streamer\Sonos Streamer\Sonos Streamer\bin\Debug\Sonos Streamer.xml
+C:\Users\Elmnas\Documents\Visual Studio 2015\Projects\Sonos Streamer\Sonos Streamer\Sonos Streamer\obj\Debug\Sonos Streamer.exe
+C:\Users\Elmnas\Documents\Visual Studio 2015\Projects\Sonos Streamer\Sonos Streamer\Sonos Streamer\obj\Debug\Sonos Streamer.xml
+C:\Users\Elmnas\Documents\Visual Studio 2015\Projects\Sonos Streamer\Sonos Streamer\Sonos Streamer\obj\Debug\Sonos Streamer.pdb
+C:\Users\Elmnas\Documents\Visual Studio 2015\Projects\Sonos Streamer\Sonos Streamer\Sonos Streamer\bin\Debug\Microsoft.DirectX.DirectSound.dll
+C:\Users\Elmnas\Documents\Visual Studio 2015\Projects\Sonos Streamer\Sonos Streamer\Sonos Streamer\bin\Debug\Microsoft.DirectX.dll

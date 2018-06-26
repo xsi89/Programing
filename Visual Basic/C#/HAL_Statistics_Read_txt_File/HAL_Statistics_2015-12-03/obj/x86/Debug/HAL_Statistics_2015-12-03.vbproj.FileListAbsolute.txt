@@ -1,0 +1,24 @@
+C:\Users\daniel.elmnas\Documents\Visual Studio 2010\Projects\CSharp-Lessons\HAL_Statistics_2015-11-23\HAL_Statistics_2015-12-03\HAL_Statistics_2015-12-03\bin\Debug\HAL_Statistics_2015-12-03.exe
+C:\Users\daniel.elmnas\Documents\Visual Studio 2010\Projects\CSharp-Lessons\HAL_Statistics_2015-11-23\HAL_Statistics_2015-12-03\HAL_Statistics_2015-12-03\bin\Debug\HAL_Statistics_2015-12-03.pdb
+C:\Users\daniel.elmnas\Documents\Visual Studio 2010\Projects\CSharp-Lessons\HAL_Statistics_2015-11-23\HAL_Statistics_2015-12-03\HAL_Statistics_2015-12-03\bin\Debug\HAL_Statistics_2015-12-03.xml
+C:\Users\daniel.elmnas\Documents\Visual Studio 2010\Projects\CSharp-Lessons\HAL_Statistics_2015-11-23\HAL_Statistics_2015-12-03\HAL_Statistics_2015-12-03\obj\x86\Debug\HAL_Statistics.Form1.resources
+C:\Users\daniel.elmnas\Documents\Visual Studio 2010\Projects\CSharp-Lessons\HAL_Statistics_2015-11-23\HAL_Statistics_2015-12-03\HAL_Statistics_2015-12-03\obj\x86\Debug\HAL_Statistics.Resources.resources
+C:\Users\daniel.elmnas\Documents\Visual Studio 2010\Projects\CSharp-Lessons\HAL_Statistics_2015-11-23\HAL_Statistics_2015-12-03\HAL_Statistics_2015-12-03\obj\x86\Debug\HAL_Statistics_2015-12-03.vbproj.GenerateResource.Cache
+C:\Users\daniel.elmnas\Documents\Visual Studio 2010\Projects\CSharp-Lessons\HAL_Statistics_2015-11-23\HAL_Statistics_2015-12-03\HAL_Statistics_2015-12-03\obj\x86\Debug\HAL_Statistics_2015-12-03.exe
+C:\Users\daniel.elmnas\Documents\Visual Studio 2010\Projects\CSharp-Lessons\HAL_Statistics_2015-11-23\HAL_Statistics_2015-12-03\HAL_Statistics_2015-12-03\obj\x86\Debug\HAL_Statistics_2015-12-03.xml
+C:\Users\daniel.elmnas\Documents\Visual Studio 2010\Projects\CSharp-Lessons\HAL_Statistics_2015-11-23\HAL_Statistics_2015-12-03\HAL_Statistics_2015-12-03\obj\x86\Debug\HAL_Statistics_2015-12-03.pdb
+C:\Users\daniel.elmnas\Documents\Visual Studio 2010\Projects\CSharp-Lessons\HAL_Statistics_2015-11-23\HAL_Statistics_2015-12-03\HAL_Statistics_2015-12-03\obj\x86\Debug\HAL_Statistics_2015-12-03.vbprojResolveAssemblyReference.cache
+C:\Users\daniel.elmnas\Documents\Visual Studio 2010\Projects\C Sharp\HAL_Statistics_2015-11-23\HAL_Statistics_2015-12-03\HAL_Statistics_2015-12-03\obj\x86\Debug\HAL_Statistics_2015-12-03.exe
+C:\Users\daniel.elmnas\Documents\Visual Studio 2010\Projects\C Sharp\HAL_Statistics_2015-11-23\HAL_Statistics_2015-12-03\HAL_Statistics_2015-12-03\obj\x86\Debug\HAL_Statistics_2015-12-03.xml
+C:\Users\daniel.elmnas\Documents\Visual Studio 2010\Projects\C Sharp\HAL_Statistics_2015-11-23\HAL_Statistics_2015-12-03\HAL_Statistics_2015-12-03\obj\x86\Debug\HAL_Statistics_2015-12-03.pdb
+C:\Users\daniel.elmnas\Documents\Visual Studio 2010\Projects\C Sharp\HAL_Statistics_Read_txt_File\HAL_Statistics_2015-12-03\obj\x86\Debug\HAL_Statistics_2015-12-03.exe
+C:\Users\daniel.elmnas\Documents\Visual Studio 2010\Projects\C Sharp\HAL_Statistics_Read_txt_File\HAL_Statistics_2015-12-03\obj\x86\Debug\HAL_Statistics_2015-12-03.xml
+C:\Users\daniel.elmnas\Documents\Visual Studio 2010\Projects\C Sharp\HAL_Statistics_Read_txt_File\HAL_Statistics_2015-12-03\obj\x86\Debug\HAL_Statistics_2015-12-03.pdb
+C:\Users\daniel.elmnas\Documents\Visual Studio 2010\Projects\C Sharp\HAL_Statistics_Read_txt_File\HAL_Statistics_2015-12-03\bin\Debug\HAL_Statistics_2015-12-03.exe
+C:\Users\daniel.elmnas\Documents\Visual Studio 2010\Projects\C Sharp\HAL_Statistics_Read_txt_File\HAL_Statistics_2015-12-03\bin\Debug\HAL_Statistics_2015-12-03.pdb
+C:\Users\daniel.elmnas\Documents\Visual Studio 2010\Projects\C Sharp\HAL_Statistics_Read_txt_File\HAL_Statistics_2015-12-03\bin\Debug\HAL_Statistics_2015-12-03.xml
+C:\Users\daniel.elmnas\Documents\Visual Studio 2010\Projects\C Sharp\HAL_Statistics_Read_txt_File\HAL_Statistics_2015-12-03\obj\x86\Debug\HAL_Statistics_2015-12-03.vbprojResolveAssemblyReference.cache
+C:\Users\daniel.elmnas\Documents\Visual Studio 2010\Projects\C Sharp\HAL_Statistics_Read_txt_File\HAL_Statistics_2015-12-03\obj\x86\Debug\HAL_Statistics.Form1.resources
+C:\Users\daniel.elmnas\Documents\Visual Studio 2010\Projects\C Sharp\HAL_Statistics_Read_txt_File\HAL_Statistics_2015-12-03\obj\x86\Debug\HAL_Statistics.Resources.resources
+C:\Users\daniel.elmnas\Documents\Visual Studio 2010\Projects\C Sharp\HAL_Statistics_Read_txt_File\HAL_Statistics_2015-12-03\obj\x86\Debug\HAL_Statistics_2015-12-03.vbproj.GenerateResource.Cache
+C:\Users\daniel.elmnas\Documents\Visual Studio 2010\Projects\C Sharp\HAL_Statistics_Read_txt_File\HAL_Statistics_2015-12-03\obj\x86\Debug\HAL_Statistics.SQL_Columns.resources

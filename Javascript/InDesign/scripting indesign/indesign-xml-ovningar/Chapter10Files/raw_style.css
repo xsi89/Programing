@@ -1,0 +1,38 @@
+root {    }
+
+content	{    
+	display: block;
+	margin-bottom: 30pt;
+	margin-left: 0;
+}
+
+bodytext, headline, bullet, number    {
+	display: block;
+	margin-left: 20pt;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	margin-bottom:0px;
+	margin-top:0px;
+	color:#000000;
+}
+
+bodytext    {
+	font-size: 13pt;
+	line-height: 16pt;
+}
+bullet    {
+	text-indent: 20px;
+	display: list-item;
+	list-style-position: inside;
+}
+headline    {
+	color:#0033FF;
+	font-size: 20pt;
+	line-height: 24pt;
+	font-weight: bold;
+}
+number    {
+	text-indent: 20px;
+	display: list-item;
+	list-style-position: inside;
+}

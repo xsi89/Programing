@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="NewsletterFormat.xslt"?>
+<GreenStartNews>
+	<Events>
+		<Event>Urban Newspaper Drive </Event>
+		<Eventdate>01.19 </Eventdate>
+		<Event>Can Recycling </Event>
+		<Eventdate>01.26 </Eventdate>
+		<Event>Battery Drop-off </Event>
+		<Eventdate>02.02 </Eventdate>
+		<Event>Children Recycle! Event </Event>
+		<Eventdate>02.09 </Eventdate>
+		<Heading3>Join the Cause </Heading3>
+		<Body-cal>Sign up and receive our printed newsletter along with a calendar of events and other useful tips towards a cleaner environment.  </Body-cal>
+		<Heading3>Polar Bear Challenge </Heading3>
+		<Body-cal>Take a dip at our annual Polar Bear Challenge, New Year&#8217;s Day, rain...eh, snow or shine at the Lake Front Center. Free hot chocolate for all bathers. </Body-cal>
+		<Heading3>Winter Wrap-Up </Heading3>
+		<Body-cal>Join us every Wednesday at 7pm in January as we cover great tips on how to seal up your house or apartment and save money on heat and electricity this winter. </Body-cal>
+		<Heading3>Ski-Skate Saturday </Heading3>
+		<Body-cal>Each Saturday in January and February we meet at the South Side Nature Center for cross-country skiing and ice skating. Skis and skates are available for rental. </Body-cal>
+		<Heading3>Cold Weather Clinic </Heading3>
+		<Body-cal>Our Second Sunday Seminars cover import tips on keeping safe and warm in Winter weather.</Body-cal>
+	</Events>
+	<Toptips>
+		<Body-tips>
+			<boldblue>Buy local &#8211;</boldblue> Fruit, vegetables, paper and other consumables are shipped all over the country and the world at enormous expense and expenditure of fuel and other resources. When you buy local, your money stays in the community, supporting your neighbors and saves energy and resources. </Body-tips>
+		<Body-tips>
+			<boldblue>Change Bulbs &#8211;</boldblue> Replace incandenscent light bulbs with compact flourenscents. Although they cost more initially, they last longer, use much less electricity and produce less heat than standard bulbs. </Body-tips>
+		<Body-tips>
+			<boldblue>Go Light or White &#8211;</boldblue> Next time your re-roof the house choose a lighter shade of roofing tile, or even white. Dark colors absorb and retain more heat from the sun during the day and then radiate it back to the atmosphere at night raising the air temperature. Light colors reflect the heat preventing it from building up at all.</Body-tips>
+	</Toptips>
+	<news>
+		<Heading1>Is <blue>Blue</blue> the New <green>Green</green>? </Heading1>
+		<Body>
+			<bold>Studies indicate more families recycle today than they did five years ago. The question is, are people going green&#8212;or just blue?</bold>
+		</Body>
+		<Body>When the first trial of the blue bin program started in December 1994 we never thought it would be the success it has become. </Body>
+		<Body>The program started with four trial rounds collecting every four weeks. Now it has mushroomed to 38 rounds covering over 80,000 households in all areas of the Borough with collections every eight weeks. </Body>
+		<Heading2>Prairie Restoration Preparations </Heading2>
+		<Body>
+			<bold>Got plans this summer? </bold>
+		</Body>
+		<Body>We need volunteers for the Prairie Restoration project starting in March 2008 at Prairie Park on the west side. The restoration project  will proceed every weekend through the entire summer. We&#8217;ve got lots of tasks to accomplish before September, so the call&#8217;s going out for as many volunteers as we can get. If last year&#8217;s any example, there&#8217;s plenty of fun to go along with the hard work.  </Body>
+		<Body>The plan is simple: first we strip the entire field of non-native plant species. Then, we replace the invaders with native species, well-adapted to the climate and soil. Over the years a variety of plants have been intentionally and unintentionally brought into the area and have taken over the local habitat. Some are innocuous while others are truly insidious. </Body>
+	</news>
+	<TOC>
+		<TOCItem>
+			<blue>Sign Up</blue>
+			<pgnumber>2</pgnumber>
+		</TOCItem>
+		<TOCItem>
+			<blue>Recycling Blues</blue>
+			<pgnumber>2</pgnumber>
+		</TOCItem>
+		<TOCItem>
+			<blue>A Batteries New Life</blue>
+			<pgnumber>3</pgnumber>
+		</TOCItem>
+		<TOCItem>
+			<blue>Tanenbaum Treasure</blue>
+			<pgnumber>4</pgnumber>
+		</TOCItem>
+		<TOCItem>
+			<blue>Green Thumb</blue>
+			<pgnumber>4</pgnumber>
+		</TOCItem>
+	</TOC>
+	<Issue-id>
+		<volume_no>Volume 10</volume_no> &#8226; <issue_no>Issue 1</issue_no> &#8226; <issue_month>January 2008</issue_month>
+	</Issue-id>
+	<news>
+		<Heading2>Christmas Trees Keep the Giving Going </Heading2>
+		<Body-first>If your community doesn&#8217;t recycle Christmas trees yet, don&#8217;t toss the baum on the byre. There are many uses for the trees around the backyard and in your garden.  </Body-first>
+		<Body-news>Leave the tree in the stand and put it out is a quiet area of your yard so that birds can use it for nesting and shelter.  </Body-news>
+		<Body-news>Use the boughs as ground cover for plants that are less hardy or that have roots close to the surface. Get your neighbors together and rent a chipper to turn your tree into mulch or compost.  </Body-news>
+		<Body-news>In some areas you can put the tree into a lake or lagoon to create a home for fish and other aquatic creatures.   </Body-news>
+		<Body-news>Finally, if you have a large piece of land trees can be placed along ridges or berms to prevent or reduce water or wind erosion.</Body-news>
+	</news>
+	<Greenthumb>
+		<Heading3>Winter Plant Care </Heading3>
+		<Body-cal>As the icy winds of January race down the prairie from Canada the last thing on your mind is plant care, but ignoring your houseplants is a benign death sentence.   </Body-cal>
+		<Body-cal>One of the most common problems with indoor plants in the winter is over watering. You may think that the dry air in your home relates to dry soil, but that&#8217;s not always true.  The weaker winter sun reduces the rate of photosynthesis and plant growth, which equates to lower water use. </Body-cal>
+		<Body-cal>Keep the soil moist, but not wet.  If you don&#8217;t have a moisture meter use your finger to test the soil.  Surface soil dries out faster in winter, so stick the finger as deeply as you can into the pot without damaging the roots.  </Body-cal>
+		<Body-cal>As with water, you shouldn&#8217;t overfeed your plants in winter. Overloading the soil with too much fertilizer or plant food can burn the root system and stress the plant.</Body-cal>
+	</Greenthumb>
+	<news>
+		<Heading2>Add Flavor to Your Winter Fare </Heading2>
+		<Body-first>Don&#8217;t wait until spring to get your herb garden going. Herbs can add flavor to both your food and your window sill. Any size flower pot or planter can be used to start a sprig of basil, rosemary, dill or even mint. They start easily and thrive with minimal care.  </Body-first>
+		<Body-news>The most important part of your herb gardenette will be the soil. We recommend a combination of sand, silt, clay, and organic matter to build the best foundation for your flavorings. Feel free to combine two or three herbs in larger pots or planters.  </Body-news>
+		<Body-news>Always locate your planter in a southerly window when possible. You may need to augment the sun with a plant lamp if you want the herbs to grow moer quickly or fully.  </Body-news>
+		<Body-news>Before you take any samples allow the plants to grow to a height of at least six inches or higher. Never prune more than a third of the plant at any time. </Body-news>
+	</news>
+	<news>
+		<Heading2>Indoor Composting </Heading2>
+		<Body-first>Compost is useful for all types of gardening.Making your own is easy and beneficial to the environment by keeping landfills clear of organic waste. But people with small yards, or no yards at all, figure they don&#8217;t have the room for compost bins. But don&#8217;t let the space requirements turn you off. Vermicomposting only needs a spare shelf in a closet or a bit of space in the basement or under the sink, a bin and some red worms. To learn more check out the link on <green>www.greenstart.org</green>.</Body-first>
+	</news>
+</GreenStartNews>
