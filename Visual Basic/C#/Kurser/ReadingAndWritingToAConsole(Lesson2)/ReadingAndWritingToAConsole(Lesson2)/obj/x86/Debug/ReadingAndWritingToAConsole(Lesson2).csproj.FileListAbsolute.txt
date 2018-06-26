@@ -1,6 +1,0 @@
-C:\Users\daniel.elmnas\AppData\Local\Temporary Projects\ReadingAndWritingToAConsole(Lesson2)\bin\Debug\ReadingAndWritingToAConsole(Lesson2).exe
-C:\Users\daniel.elmnas\AppData\Local\Temporary Projects\ReadingAndWritingToAConsole(Lesson2)\bin\Debug\ReadingAndWritingToAConsole(Lesson2).pdb
-C:\Users\daniel.elmnas\AppData\Local\Temporary Projects\ReadingAndWritingToAConsole(Lesson2)\obj\x86\Debug\ReadingAndWritingToAConsole(Lesson2).exe
-C:\Users\daniel.elmnas\AppData\Local\Temporary Projects\ReadingAndWritingToAConsole(Lesson2)\obj\x86\Debug\ReadingAndWritingToAConsole(Lesson2).pdb
-C:\Users\daniel.elmnas\Documents\Visual Studio 2010\Projects\CSharp-Lessons\ReadingAndWritingToAConsole(Lesson2)\ReadingAndWritingToAConsole(Lesson2)\obj\x86\Debug\ReadingAndWritingToAConsole(Lesson2).exe
-C:\Users\daniel.elmnas\Documents\Visual Studio 2010\Projects\CSharp-Lessons\ReadingAndWritingToAConsole(Lesson2)\ReadingAndWritingToAConsole(Lesson2)\obj\x86\Debug\ReadingAndWritingToAConsole(Lesson2).pdb

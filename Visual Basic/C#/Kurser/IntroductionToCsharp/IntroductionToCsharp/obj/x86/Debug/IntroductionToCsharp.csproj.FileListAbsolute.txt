@@ -1,6 +1,0 @@
-C:\Users\daniel.elmnas\AppData\Local\Temporary Projects\IntroductionToCsharp\bin\Debug\IntroductionToCsharp.exe
-C:\Users\daniel.elmnas\AppData\Local\Temporary Projects\IntroductionToCsharp\bin\Debug\IntroductionToCsharp.pdb
-C:\Users\daniel.elmnas\AppData\Local\Temporary Projects\IntroductionToCsharp\obj\x86\Debug\IntroductionToCsharp.exe
-C:\Users\daniel.elmnas\AppData\Local\Temporary Projects\IntroductionToCsharp\obj\x86\Debug\IntroductionToCsharp.pdb
-C:\Users\daniel.elmnas\Documents\Visual Studio 2010\Projects\CSharp-Lessons\IntroductionToCsharp\IntroductionToCsharp\obj\x86\Debug\IntroductionToCsharp.exe
-C:\Users\daniel.elmnas\Documents\Visual Studio 2010\Projects\CSharp-Lessons\IntroductionToCsharp\IntroductionToCsharp\obj\x86\Debug\IntroductionToCsharp.pdb

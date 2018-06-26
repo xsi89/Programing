@@ -1,8 +1,0 @@
-C:\Users\daniel.elmnas\AppData\Local\Temporary Projects\Teknotrans_Statistics\bin\Debug\Teknotrans_Statistics.exe
-C:\Users\daniel.elmnas\AppData\Local\Temporary Projects\Teknotrans_Statistics\bin\Debug\Teknotrans_Statistics.pdb
-C:\Users\daniel.elmnas\AppData\Local\Temporary Projects\Teknotrans_Statistics\bin\Debug\TTTeknotrans.dll
-C:\Users\daniel.elmnas\AppData\Local\Temporary Projects\Teknotrans_Statistics\obj\x86\Debug\Teknotrans_Statistics.Form1.resources
-C:\Users\daniel.elmnas\AppData\Local\Temporary Projects\Teknotrans_Statistics\obj\x86\Debug\Teknotrans_Statistics.Properties.Resources.resources
-C:\Users\daniel.elmnas\AppData\Local\Temporary Projects\Teknotrans_Statistics\obj\x86\Debug\Teknotrans_Statistics.csproj.GenerateResource.Cache
-C:\Users\daniel.elmnas\AppData\Local\Temporary Projects\Teknotrans_Statistics\obj\x86\Debug\Teknotrans_Statistics.exe
-C:\Users\daniel.elmnas\AppData\Local\Temporary Projects\Teknotrans_Statistics\obj\x86\Debug\Teknotrans_Statistics.pdb
